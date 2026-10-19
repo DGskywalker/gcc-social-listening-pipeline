@@ -1,0 +1,4887 @@
+{
+  "metadata": {
+    "generated_at": "2026-10-19T07:52:20.714337+00:00",
+    "total_posts": 175,
+    "nps_proxy": -3.4,
+    "sentiment_distribution": {
+      "positive": 60,
+      "negative": 66,
+      "neutral": 49
+    },
+    "share_of_voice": {
+      "Al-Noor Telecom": 36,
+      "DesertPay": 36,
+      "Oasis Retail": 35,
+      "Falcon Ride": 35,
+      "GulfCloud": 33
+    },
+    "top_themes": {
+      "Network & Outage": 23,
+      "Pricing & Billing": 28,
+      "Promotions & Offers": 25,
+      "App & UX Experience": 29,
+      "Delivery & Logistics": 17,
+      "Customer Support": 25,
+      "General": 28
+    }
+  },
+  "trends_data": {
+    "Al-Noor Telecom": [
+      {
+        "date": "2026-09-20",
+        "score": 61
+      },
+      {
+        "date": "2026-09-21",
+        "score": 75
+      },
+      {
+        "date": "2026-09-22",
+        "score": 66
+      },
+      {
+        "date": "2026-09-23",
+        "score": 72
+      },
+      {
+        "date": "2026-09-24",
+        "score": 53
+      },
+      {
+        "date": "2026-09-25",
+        "score": 57
+      },
+      {
+        "date": "2026-09-26",
+        "score": 58
+      },
+      {
+        "date": "2026-09-27",
+        "score": 74
+      },
+      {
+        "date": "2026-09-28",
+        "score": 64
+      },
+      {
+        "date": "2026-09-29",
+        "score": 76
+      },
+      {
+        "date": "2026-09-30",
+        "score": 72
+      },
+      {
+        "date": "2026-10-01",
+        "score": 67
+      },
+      {
+        "date": "2026-10-02",
+        "score": 55
+      },
+      {
+        "date": "2026-10-03",
+        "score": 77
+      },
+      {
+        "date": "2026-10-04",
+        "score": 69
+      },
+      {
+        "date": "2026-10-05",
+        "score": 59
+      },
+      {
+        "date": "2026-10-06",
+        "score": 72
+      },
+      {
+        "date": "2026-10-07",
+        "score": 61
+      },
+      {
+        "date": "2026-10-08",
+        "score": 66
+      },
+      {
+        "date": "2026-10-09",
+        "score": 60
+      },
+      {
+        "date": "2026-10-10",
+        "score": 65
+      },
+      {
+        "date": "2026-10-11",
+        "score": 68
+      },
+      {
+        "date": "2026-10-12",
+        "score": 75
+      },
+      {
+        "date": "2026-10-13",
+        "score": 73
+      },
+      {
+        "date": "2026-10-14",
+        "score": 64
+      },
+      {
+        "date": "2026-10-15",
+        "score": 62
+      },
+      {
+        "date": "2026-10-16",
+        "score": 62
+      },
+      {
+        "date": "2026-10-17",
+        "score": 65
+      },
+      {
+        "date": "2026-10-18",
+        "score": 70
+      },
+      {
+        "date": "2026-10-19",
+        "score": 64
+      }
+    ],
+    "DesertPay": [
+      {
+        "date": "2026-09-20",
+        "score": 72
+      },
+      {
+        "date": "2026-09-21",
+        "score": 78
+      },
+      {
+        "date": "2026-09-22",
+        "score": 68
+      },
+      {
+        "date": "2026-09-23",
+        "score": 81
+      },
+      {
+        "date": "2026-09-24",
+        "score": 84
+      },
+      {
+        "date": "2026-09-25",
+        "score": 71
+      },
+      {
+        "date": "2026-09-26",
+        "score": 78
+      },
+      {
+        "date": "2026-09-27",
+        "score": 72
+      },
+      {
+        "date": "2026-09-28",
+        "score": 64
+      },
+      {
+        "date": "2026-09-29",
+        "score": 70
+      },
+      {
+        "date": "2026-09-30",
+        "score": 84
+      },
+      {
+        "date": "2026-10-01",
+        "score": 78
+      },
+      {
+        "date": "2026-10-02",
+        "score": 76
+      },
+      {
+        "date": "2026-10-03",
+        "score": 68
+      },
+      {
+        "date": "2026-10-04",
+        "score": 76
+      },
+      {
+        "date": "2026-10-05",
+        "score": 80
+      },
+      {
+        "date": "2026-10-06",
+        "score": 82
+      },
+      {
+        "date": "2026-10-07",
+        "score": 64
+      },
+      {
+        "date": "2026-10-08",
+        "score": 80
+      },
+      {
+        "date": "2026-10-09",
+        "score": 70
+      },
+      {
+        "date": "2026-10-10",
+        "score": 63
+      },
+      {
+        "date": "2026-10-11",
+        "score": 66
+      },
+      {
+        "date": "2026-10-12",
+        "score": 72
+      },
+      {
+        "date": "2026-10-13",
+        "score": 69
+      },
+      {
+        "date": "2026-10-14",
+        "score": 73
+      },
+      {
+        "date": "2026-10-15",
+        "score": 76
+      },
+      {
+        "date": "2026-10-16",
+        "score": 75
+      },
+      {
+        "date": "2026-10-17",
+        "score": 81
+      },
+      {
+        "date": "2026-10-18",
+        "score": 64
+      },
+      {
+        "date": "2026-10-19",
+        "score": 62
+      }
+    ],
+    "Oasis Retail": [
+      {
+        "date": "2026-09-20",
+        "score": 58
+      },
+      {
+        "date": "2026-09-21",
+        "score": 50
+      },
+      {
+        "date": "2026-09-22",
+        "score": 66
+      },
+      {
+        "date": "2026-09-23",
+        "score": 66
+      },
+      {
+        "date": "2026-09-24",
+        "score": 50
+      },
+      {
+        "date": "2026-09-25",
+        "score": 49
+      },
+      {
+        "date": "2026-09-26",
+        "score": 53
+      },
+      {
+        "date": "2026-09-27",
+        "score": 52
+      },
+      {
+        "date": "2026-09-28",
+        "score": 70
+      },
+      {
+        "date": "2026-09-29",
+        "score": 46
+      },
+      {
+        "date": "2026-09-30",
+        "score": 47
+      },
+      {
+        "date": "2026-10-01",
+        "score": 65
+      },
+      {
+        "date": "2026-10-02",
+        "score": 54
+      },
+      {
+        "date": "2026-10-03",
+        "score": 61
+      },
+      {
+        "date": "2026-10-04",
+        "score": 55
+      },
+      {
+        "date": "2026-10-05",
+        "score": 58
+      },
+      {
+        "date": "2026-10-06",
+        "score": 67
+      },
+      {
+        "date": "2026-10-07",
+        "score": 52
+      },
+      {
+        "date": "2026-10-08",
+        "score": 69
+      },
+      {
+        "date": "2026-10-09",
+        "score": 54
+      },
+      {
+        "date": "2026-10-10",
+        "score": 48
+      },
+      {
+        "date": "2026-10-11",
+        "score": 62
+      },
+      {
+        "date": "2026-10-12",
+        "score": 70
+      },
+      {
+        "date": "2026-10-13",
+        "score": 70
+      },
+      {
+        "date": "2026-10-14",
+        "score": 66
+      },
+      {
+        "date": "2026-10-15",
+        "score": 51
+      },
+      {
+        "date": "2026-10-16",
+        "score": 46
+      },
+      {
+        "date": "2026-10-17",
+        "score": 64
+      },
+      {
+        "date": "2026-10-18",
+        "score": 48
+      },
+      {
+        "date": "2026-10-19",
+        "score": 48
+      }
+    ],
+    "Falcon Ride": [
+      {
+        "date": "2026-09-20",
+        "score": 82
+      },
+      {
+        "date": "2026-09-21",
+        "score": 87
+      },
+      {
+        "date": "2026-09-22",
+        "score": 85
+      },
+      {
+        "date": "2026-09-23",
+        "score": 89
+      },
+      {
+        "date": "2026-09-24",
+        "score": 69
+      },
+      {
+        "date": "2026-09-25",
+        "score": 88
+      },
+      {
+        "date": "2026-09-26",
+        "score": 88
+      },
+      {
+        "date": "2026-09-27",
+        "score": 82
+      },
+      {
+        "date": "2026-09-28",
+        "score": 81
+      },
+      {
+        "date": "2026-09-29",
+        "score": 77
+      },
+      {
+        "date": "2026-09-30",
+        "score": 83
+      },
+      {
+        "date": "2026-10-01",
+        "score": 71
+      },
+      {
+        "date": "2026-10-02",
+        "score": 82
+      },
+      {
+        "date": "2026-10-03",
+        "score": 77
+      },
+      {
+        "date": "2026-10-04",
+        "score": 85
+      },
+      {
+        "date": "2026-10-05",
+        "score": 85
+      },
+      {
+        "date": "2026-10-06",
+        "score": 93
+      },
+      {
+        "date": "2026-10-07",
+        "score": 69
+      },
+      {
+        "date": "2026-10-08",
+        "score": 87
+      },
+      {
+        "date": "2026-10-09",
+        "score": 80
+      },
+      {
+        "date": "2026-10-10",
+        "score": 91
+      },
+      {
+        "date": "2026-10-11",
+        "score": 77
+      },
+      {
+        "date": "2026-10-12",
+        "score": 77
+      },
+      {
+        "date": "2026-10-13",
+        "score": 81
+      },
+      {
+        "date": "2026-10-14",
+        "score": 85
+      },
+      {
+        "date": "2026-10-15",
+        "score": 70
+      },
+      {
+        "date": "2026-10-16",
+        "score": 87
+      },
+      {
+        "date": "2026-10-17",
+        "score": 70
+      },
+      {
+        "date": "2026-10-18",
+        "score": 72
+      },
+      {
+        "date": "2026-10-19",
+        "score": 81
+      }
+    ],
+    "GulfCloud": [
+      {
+        "date": "2026-09-20",
+        "score": 36
+      },
+      {
+        "date": "2026-09-21",
+        "score": 33
+      },
+      {
+        "date": "2026-09-22",
+        "score": 53
+      },
+      {
+        "date": "2026-09-23",
+        "score": 34
+      },
+      {
+        "date": "2026-09-24",
+        "score": 47
+      },
+      {
+        "date": "2026-09-25",
+        "score": 32
+      },
+      {
+        "date": "2026-09-26",
+        "score": 53
+      },
+      {
+        "date": "2026-09-27",
+        "score": 54
+      },
+      {
+        "date": "2026-09-28",
+        "score": 45
+      },
+      {
+        "date": "2026-09-29",
+        "score": 46
+      },
+      {
+        "date": "2026-09-30",
+        "score": 44
+      },
+      {
+        "date": "2026-10-01",
+        "score": 36
+      },
+      {
+        "date": "2026-10-02",
+        "score": 48
+      },
+      {
+        "date": "2026-10-03",
+        "score": 42
+      },
+      {
+        "date": "2026-10-04",
+        "score": 40
+      },
+      {
+        "date": "2026-10-05",
+        "score": 32
+      },
+      {
+        "date": "2026-10-06",
+        "score": 52
+      },
+      {
+        "date": "2026-10-07",
+        "score": 34
+      },
+      {
+        "date": "2026-10-08",
+        "score": 35
+      },
+      {
+        "date": "2026-10-09",
+        "score": 51
+      },
+      {
+        "date": "2026-10-10",
+        "score": 48
+      },
+      {
+        "date": "2026-10-11",
+        "score": 45
+      },
+      {
+        "date": "2026-10-12",
+        "score": 42
+      },
+      {
+        "date": "2026-10-13",
+        "score": 48
+      },
+      {
+        "date": "2026-10-14",
+        "score": 54
+      },
+      {
+        "date": "2026-10-15",
+        "score": 41
+      },
+      {
+        "date": "2026-10-16",
+        "score": 38
+      },
+      {
+        "date": "2026-10-17",
+        "score": 36
+      },
+      {
+        "date": "2026-10-18",
+        "score": 48
+      },
+      {
+        "date": "2026-10-19",
+        "score": 36
+      }
+    ]
+  },
+  "executive_summary": {
+    "generated_at": "October 19, 2026 - 07:52 UTC",
+    "key_takeaway": "High negative sentiment spike detected for Al-Noor Telecom in Riyadh due to 5G fiber disconnections, while DesertPay's Ramadan cashback campaign achieved highest consumer loyalty.",
+    "insights": [
+      {
+        "type": "outage_alert",
+        "title": "🚨 Al-Noor Telecom 5G Outage Flare-Up",
+        "body": "Al-Noor Telecom experienced a 44% spike in negative mentions over the last 72 hours centered in Northern Riyadh (Al-Yasmin district). Sarcastic complaints ('قمة الاحترافية النت فاصل') indicate customer dissatisfaction with chatbot support deflection.",
+        "action": "Dispatch network engineering teams to inspect Al-Yasmin cell towers; publish an official SLA incident notification to mitigate brand risk."
+      },
+      {
+        "type": "promotional_win",
+        "title": "💡 DesertPay Cashback Campaign Dominance",
+        "body": "DesertPay generated 78% positive sentiment on TikTok with its 10% instant Ramadan supermarket cashback offer. Share of voice rose to 28% of total GCC fintech discussions.",
+        "action": "Scale paid influencer partnerships across Saudi & UAE retail creators; extend referral incentives to capture active wallet migrations."
+      },
+      {
+        "type": "pricing_risk",
+        "title": "⚠️ Falcon Ride Surge Pricing Friction",
+        "body": "Falcon Ride faced heightened consumer pushback on weekend surge pricing multipliers (reaching 2.8x base fare in Riyadh Boulevard and Downtown Dubai), driving users toward competing mobility options.",
+        "action": "Cap maximum surge multipliers during cultural events and review driver commission structures to curb off-platform ride cancellations."
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "ti_syn_e9f5880e7f",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-13T07:51:57.980359+00:00",
+      "date": "2026-10-13",
+      "text": "يا جماعة شبكة النور للاتصالات في حي الياسمين شمال الرياض فاصلة تماماً من الصباح! كل ما نكلم الدعم يقولون تحديث برج. أحد عنده نفس المشكلة؟ 😡📡 #النور_للاتصالات #الرياض #انقطاع_النت",
+      "author": "@riyadh_tech_guy",
+      "url": "https://www.tiktok.com/@riyadh_tech_guy/status/ti_syn_e9f5880e7f",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "negative",
+      "sentiment_score": -0.95,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": "App & UX Experience",
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 3170,
+        "likes": 206,
+        "comments": 16,
+        "shares": 8
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "ti_syn_c081469a78",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-11T04:34:57.980359+00:00",
+      "date": "2026-10-11",
+      "text": "تجربة قياس سرعة الفايف جي 5G مع @alnoor_telecom في بوليفارد سيتي وصلت 920 Mbps! صراحة تطور جبار في التغطية مقارنة بالعام الماضي. ⚡🏎️ #تقنية #السعودية #5G #النور",
+      "author": "@saudi_speedtest",
+      "url": "https://www.tiktok.com/@saudi_speedtest/status/ti_syn_c081469a78",
+      "language": "mixed",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "positive",
+      "sentiment_score": 0.74,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.88,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 2376,
+        "likes": 154,
+        "comments": 12,
+        "shares": 6
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "ti_syn_1199cba392",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-09T01:17:57.980359+00:00",
+      "date": "2026-10-09",
+      "text": "Al-Noor Telecom just increased their postpaid fiber subscription fee by 15% without prior notice. Customer care response time is over 45 minutes on WhatsApp. Disappointing service! #AlNoor #TelecomGCC #SaudiExpat",
+      "author": "@dubai_expat_daily",
+      "url": "https://www.tiktok.com/@dubai_expat_daily/status/ti_syn_1199cba392",
+      "language": "en",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "negative",
+      "sentiment_score": -0.86,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": "Network & Outage",
+      "confidence": 0.92,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "views": 4004,
+        "likes": 260,
+        "comments": 20,
+        "shares": 10
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "ti_syn_d64226fd15",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-06T22:00:57.980359+00:00",
+      "date": "2026-10-06",
+      "text": "خدمة عملاء النور @alnoor_telecom أسوأ تجربة ممكن تمر فيها.. مقدم على نقل خط الفايبر من أسبوعين وكل يوم موعد وهمي والفني ما يجي! 🤦‍♂️ #خدمة_العملاء #شكاوى_الاتصالات",
+      "author": "@fahad_alotaibi_99",
+      "url": "https://www.tiktok.com/@fahad_alotaibi_99/status/ti_syn_d64226fd15",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "negative",
+      "sentiment_score": -0.62,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.8400000000000001,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "views": 3540,
+        "likes": 230,
+        "comments": 18,
+        "shares": 9
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "ti_syn_a61f29d55f",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-04T19:43:57.980359+00:00",
+      "date": "2026-10-04",
+      "text": "عرض باقة التجوال الدولي الجديدة من Al-Noor Telecom لدول الخليج.. 30GB بـ 150 ريال هل تسوى ولا اشتري eSIM محلي أفضل؟ شاركونا تجاربكم 👇 #travel #سفر #النور",
+      "author": "@wanderlust_khaleeji",
+      "url": "https://www.tiktok.com/@wanderlust_khaleeji/status/ti_syn_a61f29d55f",
+      "language": "mixed",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "positive",
+      "sentiment_score": 0.74,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.88,
+      "is_sarcasm": false,
+      "dialect": "Mixed",
+      "engagement": {
+        "views": 3797,
+        "likes": 246,
+        "comments": 19,
+        "shares": 9
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "yt_mock_001",
+      "source": "youtube",
+      "published_at": "2026-10-18T14:30:00Z",
+      "date": "2026-10-18",
+      "text": "مراجعة تغطية وسرعة 5G من النور للاتصالات في الرياض | تجربة واقعية تجربة سرعة 5G مع Al-Noor Telecom في شمال الرياض، القياس وصل إلى 850 ميجابت ولكن في بعض الأحياء التغطية تقطع.",
+      "author": "تقنية الخليج | Gulf Tech",
+      "url": "https://www.youtube.com/watch?v=yt_mock_001",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.8,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "views": 45200,
+        "likes": 2340,
+        "comments": 412
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "yt_mock_002",
+      "source": "youtube",
+      "published_at": "2026-10-18T14:30:00Z",
+      "date": "2026-10-18",
+      "text": "مقارنة المحافظ الرقمية في السعودية 2026: ديزرت باي DesertPay مقابل المنافسين فيديو تفصيلي عن رسوم التحويل الدولي ومميزات الكاش باك في تطبيق DesertPay وعروض اليوم الوطني.",
+      "author": "سعودي بودكاست مالي",
+      "url": "https://www.youtube.com/watch?v=yt_mock_002",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "positive",
+      "sentiment_score": 0.62,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": "Pricing & Billing",
+      "confidence": 0.8400000000000001,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 32100,
+        "likes": 1820,
+        "comments": 298
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "yt_mock_003",
+      "source": "youtube",
+      "published_at": "2026-10-18T14:30:00Z",
+      "date": "2026-10-18",
+      "text": "تجربة تسوق وتوصيل من واحة التجزئة Oasis Retail في دبي طلبنا مقاضي البيت عبر تطبيق Oasis Retail، التوصيل استغرق أقل من ساعتين والأسعار مناسبة جداً.",
+      "author": "دبي لايف ستايل",
+      "url": "https://www.youtube.com/watch?v=yt_mock_003",
+      "language": "mixed",
+      "brand": "Oasis Retail",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": "Delivery & Logistics",
+      "confidence": 0.8,
+      "is_sarcasm": false,
+      "dialect": "Mixed",
+      "engagement": {
+        "views": 18900,
+        "likes": 980,
+        "comments": 85
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "yt_mock_004",
+      "source": "youtube",
+      "published_at": "2026-10-18T14:30:00Z",
+      "date": "2026-10-18",
+      "text": "Falcon Ride App Review: Ride Hailing Price Surge Analysis in Riyadh Testing Falcon Ride vs competitors during peak hours in Boulevard Riyadh City. Surge multiplier was 1.8x.",
+      "author": "Riyadh Urban Mobility",
+      "url": "https://www.youtube.com/watch?v=yt_mock_004",
+      "language": "en",
+      "brand": "Falcon Ride",
+      "sentiment": "negative",
+      "sentiment_score": -0.62,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": "App & UX Experience",
+      "confidence": 0.8400000000000001,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "views": 27400,
+        "likes": 1410,
+        "comments": 194
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "ti_syn_f873fec029",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-19T07:51:57.980487+00:00",
+      "date": "2026-10-19",
+      "text": "والله محفظة ديزرت باي @DesertPay فكت أزمة! كاش باك 10% فوري على كل مشتريات السوبرماركت ومحطات الوقود طوال شهر رمضان المبارك 🌙💳 نزل الكاش باك بنفس اللحظة! #DesertPay #كاش_باك #ديزرت_باي #عروض_رمضان",
+      "author": "@deals_hunter_ksa",
+      "url": "https://www.tiktok.com/@deals_hunter_ksa/status/ti_syn_f873fec029",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "positive",
+      "sentiment_score": 0.86,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.92,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 3170,
+        "likes": 206,
+        "comments": 16,
+        "shares": 8
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "ti_syn_198ac01a70",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-17T04:34:57.980487+00:00",
+      "date": "2026-10-17",
+      "text": "تطبيق نقد الصحراء (DesertPay) معلق عند صفحة التحقق من الهوية بعد التحديث الأخير v3.2. البطاقة مجمدة ورصيدي معلق ومحد يرد بتويتر أو الشات! حلوا المشكلة بسرعة 🚨 #ديزرت_باي #DesertPay #مشكلة_تقنية",
+      "author": "@nora_fintech",
+      "url": "https://www.tiktok.com/@nora_fintech/status/ti_syn_198ac01a70",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "negative",
+      "sentiment_score": -0.86,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": "Customer Support",
+      "confidence": 0.92,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "views": 2376,
+        "likes": 154,
+        "comments": 12,
+        "shares": 6
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "ti_syn_85c770da23",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-15T01:17:57.980487+00:00",
+      "date": "2026-10-15",
+      "text": "Just tested the international remittance feature on DesertPay to send money from Riyadh to Dubai. Instant settlement and zero FX markup fees for the first transfer! Sleek UI too. 💸✨ #FintechSaudi #DesertPay #MoneyTransfer",
+      "author": "@mark_in_riyadh",
+      "url": "https://www.tiktok.com/@mark_in_riyadh/status/ti_syn_85c770da23",
+      "language": "en",
+      "brand": "DesertPay",
+      "sentiment": "positive",
+      "sentiment_score": 0.62,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": "App & UX Experience",
+      "confidence": 0.8400000000000001,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "views": 4004,
+        "likes": 260,
+        "comments": 20,
+        "shares": 10
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "ti_syn_c3a5934c2a",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-12T22:00:57.980487+00:00",
+      "date": "2026-10-12",
+      "text": "هل بطاقة ديزرت باي الائتمانية مقبولة لدخول صالات المطارات في دول الخليج بدون رسوم إضافية؟ يا ريت الإفادة من المجربين. ✈️ #ديزرت_باي #سفر #بطاقات_ائتمانية",
+      "author": "@tariq_travels",
+      "url": "https://www.tiktok.com/@tariq_travels/status/ti_syn_c3a5934c2a",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.88,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "views": 3540,
+        "likes": 230,
+        "comments": 18,
+        "shares": 9
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "ti_syn_61e909b97a",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-10T19:43:57.980487+00:00",
+      "date": "2026-10-10",
+      "text": "انتبهوا من رسوم التحويل الخفية في تطبيق ديزرت باي عند الدفع للمتاجر الدولية، تم خصم 3.5% رسوم معالجة عملة غير معلنة في الإعلان الرسمي! 📉 #نقد_الصحراء #توعية_مالية",
+      "author": "@investor_khaleej",
+      "url": "https://www.tiktok.com/@investor_khaleej/status/ti_syn_61e909b97a",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": "App & UX Experience",
+      "confidence": 0.8,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "views": 3797,
+        "likes": 246,
+        "comments": 19,
+        "shares": 9
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "ti_syn_1764a6f409",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-15T07:51:57.980599+00:00",
+      "date": "2026-10-15",
+      "text": "طلبت مقاضي البيت الأسبوعية من تطبيق واحة التجزئة Oasis Retail، وصل الطلب مغلف ومرتب خلال 40 دقيقة بالضبط والفواكه طازجة جداً! تجربة 10/10 🍎🛒 @oasis_retail #واحة_التجزئة #توصيل_مقاضي #دبي",
+      "author": "@dubai_mom_life",
+      "url": "https://www.tiktok.com/@dubai_mom_life/status/ti_syn_1764a6f409",
+      "language": "mixed",
+      "brand": "Oasis Retail",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Delivery & Logistics",
+      "secondary_theme": "App & UX Experience",
+      "confidence": 0.8,
+      "is_sarcasm": false,
+      "dialect": "Mixed",
+      "engagement": {
+        "views": 3170,
+        "likes": 206,
+        "comments": 16,
+        "shares": 8
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "ti_syn_3d27edf40b",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-13T04:34:57.980599+00:00",
+      "date": "2026-10-13",
+      "text": "أسواق الواحة @oasis_retail للأسف مستوى التوصيل تراجع جداً في جدة.. مندوب التوصيل تأخر ساعتين والآيس كريم واصل ذايب تماماً ورافضين يرجعون المبلغ في المحفظة! 😡🍦 #واحة_التجزئة #تجارب_توصيل #جدة",
+      "author": "@sara_jeddah_reviews",
+      "url": "https://www.tiktok.com/@sara_jeddah_reviews/status/ti_syn_3d27edf40b",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "negative",
+      "sentiment_score": -0.74,
+      "primary_theme": "Delivery & Logistics",
+      "secondary_theme": null,
+      "confidence": 0.88,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "views": 2376,
+        "likes": 154,
+        "comments": 12,
+        "shares": 6
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "ti_syn_16b5b6bbb4",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-11T01:17:57.980599+00:00",
+      "date": "2026-10-11",
+      "text": "Weekend mega clearance sale at Oasis Retail Festival City! Got premium kitchenware at 60% off. Clean aisles, automated checkout was super swift. Highly recommend checking it out. 🛍️🏷️ #OasisRetail #DubaiShopping #WeekendDeals",
+      "author": "@uae_bargain_finds",
+      "url": "https://www.tiktok.com/@uae_bargain_finds/status/ti_syn_16b5b6bbb4",
+      "language": "en",
+      "brand": "Oasis Retail",
+      "sentiment": "positive",
+      "sentiment_score": 0.95,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": "Network & Outage",
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "views": 4004,
+        "likes": 260,
+        "comments": 20,
+        "shares": 10
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "ti_syn_8db10de3e0",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-08T22:00:57.980599+00:00",
+      "date": "2026-10-08",
+      "text": "جولة في فرع واحة التجزئة الجديد في الظهران مول.. هل هو أفضل من الفروع القديمة؟ شوفوا الأسعار وقارنوا بنفسكم. 🛒🔍 #الشرقية #الظهران #واحة_التجزئة #تسوق",
+      "author": "@khobar_guide",
+      "url": "https://www.tiktok.com/@khobar_guide/status/ti_syn_8db10de3e0",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "positive",
+      "sentiment_score": 0.74,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.88,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "views": 3540,
+        "likes": 230,
+        "comments": 18,
+        "shares": 9
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "ti_syn_eafc27bcc9",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-16T07:51:57.980712+00:00",
+      "date": "2026-10-16",
+      "text": "يا جماعة مو معقول أسعار صقر رايد Falcon Ride وقت خروج الموظفين في الرياض! المشوار من العليا إلى النرجس صار بـ 110 ريال والسعر العادي 35 ريال.. الدبل 3 مرات سلامات؟! 🚗💸 #صقر_رايد #زحمة_الرياض #اسعار_المشاوير",
+      "author": "@riyadh_commuter",
+      "url": "https://www.tiktok.com/@riyadh_commuter/status/ti_syn_eafc27bcc9",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": "Customer Support",
+      "confidence": 0.88,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 3170,
+        "likes": 206,
+        "comments": 16,
+        "shares": 8
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "ti_syn_3d0ce5ec34",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-14T04:34:57.980712+00:00",
+      "date": "2026-10-14",
+      "text": "Falcon Ride driver cancelled after making me wait 20 minutes in 43°C heat outside Dubai Mall, and the app charged ME a cancellation fee! Support bot is useless. @FalconRide fix this! 🚗🔥 #FalconRide #DubaiTransport #CustomerServiceFail",
+      "author": "@expat_dubai_life",
+      "url": "https://www.tiktok.com/@expat_dubai_life/status/ti_syn_3d0ce5ec34",
+      "language": "en",
+      "brand": "Falcon Ride",
+      "sentiment": "negative",
+      "sentiment_score": -0.95,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": "Delivery & Logistics",
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "views": 2376,
+        "likes": 154,
+        "comments": 12,
+        "shares": 6
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "ti_syn_53ec8c04b5",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-12T01:17:57.980712+00:00",
+      "date": "2026-10-12",
+      "text": "ميزة الحجز المسبق في صقر رايد للمطار ممتازة جداً. السائق وصل قبل الموعد بـ 10 دقائق، سيارة نظيفة ومحترمة وقيادة هادئة. شكراً @falcon_ride 👍✈️ #سفر #مطار_الملك_خالد #صقر_رايد",
+      "author": "@khalid_traveler",
+      "url": "https://www.tiktok.com/@khalid_traveler/status/ti_syn_53ec8c04b5",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "positive",
+      "sentiment_score": 0.95,
+      "primary_theme": "Delivery & Logistics",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "views": 4004,
+        "likes": 260,
+        "comments": 20,
+        "shares": 10
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "ti_syn_c543e6822f",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-09T22:00:57.980712+00:00",
+      "date": "2026-10-09",
+      "text": "كود خصم صقر رايد FALCON25 شغال حالياً في أبوظبي والشارقة خصم 25% على أول 3 مشاوير.. جربوه وعطوني رايكم 🎟️ #FalconRide #AbuDhabi #توفير",
+      "author": "@uae_promos_daily",
+      "url": "https://www.tiktok.com/@uae_promos_daily/status/ti_syn_c543e6822f",
+      "language": "mixed",
+      "brand": "Falcon Ride",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.88,
+      "is_sarcasm": false,
+      "dialect": "Mixed",
+      "engagement": {
+        "views": 3540,
+        "likes": 230,
+        "comments": 18,
+        "shares": 9
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "ti_syn_0039a7c1ea",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-16T07:51:57.980837+00:00",
+      "date": "2026-10-16",
+      "text": "فخورون بإتمام نقل البنية التحتية الرقمية لشركتنا بالكامل إلى مراكز بيانات سحابة الخليج GulfCloud في الرياض. زمن استجابة (Latency) أقل من 6ms وامتثال تام لضوابط الأمن السيبراني السعودية 🇸🇦☁️ #GulfCloud #التحول_الرقمي #رؤية_2030",
+      "author": "@cto_saudi_tech",
+      "url": "https://www.tiktok.com/@cto_saudi_tech/status/ti_syn_0039a7c1ea",
+      "language": "mixed",
+      "brand": "GulfCloud",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.8,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 3170,
+        "likes": 206,
+        "comments": 16,
+        "shares": 8
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "ti_syn_1a74b33d4d",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-14T04:34:57.980837+00:00",
+      "date": "2026-10-14",
+      "text": "GulfCloud me-central-1 region experiencing elevated API latency and partial database replication outages this afternoon. Our production services are running on fallback. Waiting on post-mortem. ⚠️☁️ #GulfCloud #CloudOutage #DevOpsGCC",
+      "author": "@cloud_architect_ae",
+      "url": "https://www.tiktok.com/@cloud_architect_ae/status/ti_syn_1a74b33d4d",
+      "language": "en",
+      "brand": "GulfCloud",
+      "sentiment": "negative",
+      "sentiment_score": -0.74,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.88,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "views": 2376,
+        "likes": 154,
+        "comments": 12,
+        "shares": 6
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "ti_syn_4f5ef59ae9",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-12T01:17:57.980837+00:00",
+      "date": "2026-10-12",
+      "text": "تعلن جلف كلاود GulfCloud عن برنامج دعم الشركات الناشئة في دول الخليج برصيد سحابي يصل إلى 50,000 دولار مع تدريب مجاني للفرق التقنية. رابط التقديم في البايو. 💡🚀 #ريادة_الأعمال #سحابة_الخليج #شركات_ناشئة",
+      "author": "@venture_gulf",
+      "url": "https://www.tiktok.com/@venture_gulf/status/ti_syn_4f5ef59ae9",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.88,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "views": 4004,
+        "likes": 260,
+        "comments": 20,
+        "shares": 10
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_001",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-12T07:52:20.709693+00:00",
+      "date": "2026-10-12",
+      "text": "يا جماعة شبكة النور للاتصالات في حي الياسمين شمال الرياض فاصلة تماماً من الصباح! كل ما نكلم الدعم يقولون تحديث برج. 😡📡",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.tiktok.com/post/alnoor_001",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 1500,
+        "likes": 120,
+        "comments": 15
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_002",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-09T05:52:20.709693+00:00",
+      "date": "2026-10-09",
+      "text": "تجربة قياس سرعة الفايف جي 5G مع @alnoor_telecom في بوليفارد سيتي وصلت 920 Mbps! صراحة تطور جبار في التغطية مقارنة بالعام الماضي. ⚡🏎️",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.instagram.com/post/alnoor_002",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 339,
+        "comments": 25,
+        "saves": 10
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_003",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-06T03:52:20.709693+00:00",
+      "date": "2026-10-06",
+      "text": "خدمة عملاء النور سريعة جداً ما شاء الله، رادين علي بعد ٤ أيام ويقولون لي أعد تشغيل المودم! قمة الاحترافية 👏🙃",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.tiktok.com/post/alnoor_003",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": true,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 1749,
+        "likes": 139,
+        "comments": 17
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_004",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-03T01:52:20.709693+00:00",
+      "date": "2026-10-03",
+      "text": "Al-Noor Telecom just increased their postpaid fiber subscription fee by 15% without prior notice. Disappointing service! #AlNoor",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.instagram.com/post/alnoor_004",
+      "language": "en",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 381,
+        "comments": 28,
+        "saves": 11
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_005",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-29T23:52:20.709693+00:00",
+      "date": "2026-09-29",
+      "text": "عرض باقة التجوال الدولي الجديدة من Al-Noor Telecom لدول الخليج.. 30GB بـ 150 ريال هل تسوى ولا اشتري eSIM محلي؟",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.tiktok.com/post/alnoor_005",
+      "language": "mixed",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Mixed",
+      "engagement": {
+        "views": 2040,
+        "likes": 163,
+        "comments": 20
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_006",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-26T21:52:20.709693+00:00",
+      "date": "2026-09-26",
+      "text": "أفضل شبكة ألياف بصرية في الدمام بلا منازع، سرعة وثبات وما قد فصل معي خلال سنة كاملة. شكراً النور للاتصالات 👍",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.tiktok.com/post/alnoor_006",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 2203,
+        "likes": 176,
+        "comments": 22
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_007",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-23T19:52:20.709693+00:00",
+      "date": "2026-09-23",
+      "text": "قدمت على نقل خط الفايبر لبيتي الجديد من أسبوعين وكل يوم موعد وهمي والفني ما يجي! شركة النور أسوأ خدمة عملاء",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.instagram.com/post/alnoor_007",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 453,
+        "comments": 34,
+        "saves": 14
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_008",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-18T17:52:20.709693+00:00",
+      "date": "2026-10-18",
+      "text": "هل باقات 5G المسبقة الدفع من النور تدعم التفعيل الفوري عبر النفاذ الوطني؟",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.tiktok.com/post/alnoor_008",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 2570,
+        "likes": 205,
+        "comments": 25
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_009",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-15T15:52:20.709693+00:00",
+      "date": "2026-10-15",
+      "text": "شباب الـ 5G حق النور صار so slow اليومين ذي في دبي مارينا.. شالسالفة؟",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.instagram.com/post/alnoor_009",
+      "language": "mixed",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Emirati",
+      "engagement": {
+        "likes": 510,
+        "comments": 38,
+        "saves": 15
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_010",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-12T13:52:20.709693+00:00",
+      "date": "2026-10-12",
+      "text": "يعطيكم العافية على الباقة الشبابية الجديدة، أسعار ممتازة وبيانات سوشال ميديا مفتوحة بدون تقييد 🥳📱",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.tiktok.com/post/alnoor_010",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Gulf",
+      "engagement": {
+        "views": 2998,
+        "likes": 239,
+        "comments": 29
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_011",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-09T11:52:20.709693+00:00",
+      "date": "2026-10-09",
+      "text": "ما قصرتوا يا النور قطعتوا النت وقت اجتماع زووم مصيري للشركة! فعلاً تثبتون كل يوم أنكم الأفضل 👏",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.instagram.com/post/alnoor_011",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": true,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 573,
+        "comments": 42,
+        "saves": 17
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_012",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-06T09:52:20.709693+00:00",
+      "date": "2026-10-06",
+      "text": "تطبيق النور للاتصالات معلق بعد التحديث ما يخليني ادفع الفاتورة، كل ما اضغط سداد يخرج من البرنامج!",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.tiktok.com/post/alnoor_012",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 3497,
+        "likes": 279,
+        "comments": 34
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_013",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-04T07:52:20.709693+00:00",
+      "date": "2026-10-04",
+      "text": "Great experience upgrading to Al-Noor fiber today. The technician arrived on time and setup took 20 minutes.",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.instagram.com/post/alnoor_013",
+      "language": "en",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 643,
+        "comments": 48,
+        "saves": 20
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_014",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-01T05:52:20.709693+00:00",
+      "date": "2026-10-01",
+      "text": "كم رسوم إلغاء العقد السنوي للإنترنت المنزلي مع شركة النور؟",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.tiktok.com/post/alnoor_014",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "views": 4079,
+        "likes": 326,
+        "comments": 40
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_015",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-28T03:52:20.709693+00:00",
+      "date": "2026-09-28",
+      "text": "والله عروض النور في اليوم الوطني دائماً تفوز، خصم 50% على اشتراكات الفايبر السنوية 🔥🇸🇦",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.instagram.com/post/alnoor_015",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 723,
+        "comments": 54,
+        "saves": 22
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_016",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-25T01:52:20.709693+00:00",
+      "date": "2026-09-25",
+      "text": "الفاتورة الشهرية نازلة بـ 450 ريال والباقة حقتي المفروض 250 ريال فقط! راجعوا حساباتكم يا النور للاتصالات",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.tiktok.com/post/alnoor_016",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 4758,
+        "likes": 380,
+        "comments": 47
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_017",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-21T23:52:20.709693+00:00",
+      "date": "2026-09-21",
+      "text": "Al-Noor Telecom customer care representative Sarah was super helpful resolving my roaming issues while abroad.",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.instagram.com/post/alnoor_017",
+      "language": "en",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 812,
+        "comments": 60,
+        "saves": 25
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_018",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-16T21:52:20.709693+00:00",
+      "date": "2026-10-16",
+      "text": "شريحة النور ما فيها شبكة نهائياً في طريق الرياض - القصيم السريع.. يرجى تقوية الأبراج",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.tiktok.com/post/alnoor_018",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 5550,
+        "likes": 444,
+        "comments": 55
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_019",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-13T19:52:20.709693+00:00",
+      "date": "2026-10-13",
+      "text": "شركة النور تعلن عن توقيع شراكة لتوسيع تغطية شبكات الجيل الخامس في المدن الصناعية.",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.instagram.com/post/alnoor_019",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "likes": 320,
+        "comments": 24,
+        "saves": 10
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_020",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-10T17:52:20.709693+00:00",
+      "date": "2026-10-10",
+      "text": "يا زين شبكتكم بس، من أمس ما نزل ولا إيميل.. الله يديم هالسرعة الخارقة 🙃",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.tiktok.com/post/alnoor_020",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": true,
+      "dialect": "Gulf",
+      "engagement": {
+        "views": 6473,
+        "likes": 517,
+        "comments": 64
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_021",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-07T15:52:20.709693+00:00",
+      "date": "2026-10-07",
+      "text": "eSIM activation with Al-Noor Telecom took less than 2 minutes via QR code. Modern and seamless.",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.instagram.com/post/alnoor_021",
+      "language": "en",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 359,
+        "comments": 26,
+        "saves": 11
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_022",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-04T13:52:20.709693+00:00",
+      "date": "2026-10-04",
+      "text": "الدعم الفني حقكم في الواتساب روبوت غبي يكرر نفس الإجابات بدون أي فائدة ترجى 🤦‍♂️",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.tiktok.com/post/alnoor_022",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 1620,
+        "likes": 129,
+        "comments": 16
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_023",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-01T11:52:20.709693+00:00",
+      "date": "2026-10-01",
+      "text": "هل تغطية ألياف النور البصرية وصلت لحي الملقا مربع ٧؟",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.instagram.com/post/alnoor_023",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 403,
+        "comments": 30,
+        "saves": 12
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_024",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-28T09:52:20.709693+00:00",
+      "date": "2026-09-28",
+      "text": "انترنت النور لا يعلى عليه في الألعاب والـ Ping ثابت 12ms في سيرفرات الشرق الأوسط 🎮👌",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.tiktok.com/post/alnoor_024",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 1889,
+        "likes": 151,
+        "comments": 18
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_025",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-26T07:52:20.709693+00:00",
+      "date": "2026-09-26",
+      "text": "Why is Al-Noor charging an international roaming activation fee when the website says it's free?",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.instagram.com/post/alnoor_025",
+      "language": "en",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 453,
+        "comments": 34,
+        "saves": 14
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_026",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-23T05:52:20.709693+00:00",
+      "date": "2026-09-23",
+      "text": "تم تدشين مركز بيانات النور الجديد لدعم حلول إنترنت الأشياء والذكاء الاصطناعي.",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.tiktok.com/post/alnoor_026",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "views": 2203,
+        "likes": 176,
+        "comments": 22
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_027",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-18T03:52:20.709693+00:00",
+      "date": "2026-10-18",
+      "text": "شكراً النور على تعويضنا بشهر مجاني بعد العطل الفني الأسبوع الماضي، بادرة طيبة تعكس احترامكم للعملاء.",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.instagram.com/post/alnoor_027",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 510,
+        "comments": 38,
+        "saves": 15
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_028",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-15T01:52:20.709693+00:00",
+      "date": "2026-10-15",
+      "text": "كل ما اتصل على 900 ينتظرني على الخط نصف ساعة وبعدها ينقفل الخط بوجهي!",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.tiktok.com/post/alnoor_028",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 2570,
+        "likes": 205,
+        "comments": 25
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_029",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-11T23:52:20.709693+00:00",
+      "date": "2026-10-11",
+      "text": "Al-Noor Telecom 5G router setup was totally plug and play. Great speeds in Sharjah.",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.instagram.com/post/alnoor_029",
+      "language": "en",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 573,
+        "comments": 42,
+        "saves": 17
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_alnoor_030",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-08T21:52:20.709693+00:00",
+      "date": "2026-10-08",
+      "text": "كيف طريقة تفعيل باقة البيانات المفتوحة في شريحة النور مسبقة الدفع؟",
+      "author": "@al_noor_telecom_user",
+      "url": "https://www.tiktok.com/post/alnoor_030",
+      "language": "ar",
+      "brand": "Al-Noor Telecom",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 2998,
+        "likes": 239,
+        "comments": 29
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_001",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-05T19:52:20.709693+00:00",
+      "date": "2026-10-05",
+      "text": "والله محفظة ديزرت باي @DesertPay فكت أزمة! كاش باك 10% فوري على كل مشتريات السوبرماركت طوال رمضان 🌙💳",
+      "author": "@desertpay_user",
+      "url": "https://www.tiktok.com/post/desertpay_001",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 3238,
+        "likes": 259,
+        "comments": 32
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_002",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-02T17:52:20.709693+00:00",
+      "date": "2026-10-02",
+      "text": "تطبيق نقد الصحراء (DesertPay) معلق عند صفحة التحقق من الهوية بعد التحديث الأخير v3.2. رصيدي معلق ومحد يرد بتويتر!",
+      "author": "@desertpay_user",
+      "url": "https://www.instagram.com/post/desertpay_002",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 682,
+        "comments": 51,
+        "saves": 21
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_003",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-29T15:52:20.709693+00:00",
+      "date": "2026-09-29",
+      "text": "Just tested the international remittance feature on DesertPay. Instant transfer from Riyadh to UAE with zero FX fee! Sleek UI 💸",
+      "author": "@desertpay_user",
+      "url": "https://www.tiktok.com/post/desertpay_003",
+      "language": "en",
+      "brand": "DesertPay",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "views": 3777,
+        "likes": 302,
+        "comments": 37
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_004",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-26T13:52:20.709693+00:00",
+      "date": "2026-09-26",
+      "text": "انتبهوا من رسوم التحويل الخفية في تطبيق ديزرت باي، تم خصم 3.5% رسوم معالجة عملة غير معلنة في الإعلان! 📉",
+      "author": "@desertpay_user",
+      "url": "https://www.instagram.com/post/desertpay_004",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Gulf",
+      "engagement": {
+        "likes": 766,
+        "comments": 57,
+        "saves": 23
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_005",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-23T11:52:20.709693+00:00",
+      "date": "2026-09-23",
+      "text": "هل بطاقة ديزرت باي الائتمانية مقبولة لدخول صالات المطارات في الخليج بدون رسوم إضافية؟",
+      "author": "@desertpay_user",
+      "url": "https://www.tiktok.com/post/desertpay_005",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "views": 4405,
+        "likes": 352,
+        "comments": 44
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_006",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-18T09:52:20.709693+00:00",
+      "date": "2026-10-18",
+      "text": "شكراً ديزرت باي على قمة الأمان، جمدتوا حسابي عشان حولت 500 ريال لأخوي وخدمة العملاء نايمة من 3 أيام 👏🔒",
+      "author": "@desertpay_user",
+      "url": "https://www.instagram.com/post/desertpay_006",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": true,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 861,
+        "comments": 64,
+        "saves": 26
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_007",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-16T07:52:20.709693+00:00",
+      "date": "2026-10-16",
+      "text": "أفضل تطبيق مدفوعات رقمية بالسعودية، تقسيم الفاتورة بين الأصدقاء بضغطة زر وبدون إحراج 👌",
+      "author": "@desertpay_user",
+      "url": "https://www.tiktok.com/post/desertpay_007",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 5138,
+        "likes": 411,
+        "comments": 51
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_008",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-13T05:52:20.709693+00:00",
+      "date": "2026-10-13",
+      "text": "DesertPay customer service team refunded my duplicate charge within 15 minutes over WhatsApp. Top tier support!",
+      "author": "@desertpay_user",
+      "url": "https://www.instagram.com/post/desertpay_008",
+      "language": "en",
+      "brand": "DesertPay",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 339,
+        "comments": 25,
+        "saves": 10
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_009",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-10T03:52:20.709693+00:00",
+      "date": "2026-10-10",
+      "text": "يا جماعة بطاقة ديزرت باي البلاستيكية كم يوم تأخذ وتوصل للبيت في جدة؟",
+      "author": "@desertpay_user",
+      "url": "https://www.tiktok.com/post/desertpay_009",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Delivery & Logistics",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 5994,
+        "likes": 479,
+        "comments": 59
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_010",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-07T01:52:20.709693+00:00",
+      "date": "2026-10-07",
+      "text": "حولت مبلغ عبر سداد إلى محفظة ديزرت باي والمبلغ انخصم من البنك وما دخل المحفظة من 24 ساعة!",
+      "author": "@desertpay_user",
+      "url": "https://www.instagram.com/post/desertpay_010",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 381,
+        "comments": 28,
+        "saves": 11
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_011",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-03T23:52:20.709693+00:00",
+      "date": "2026-10-03",
+      "text": "كود خصم ديزرت باي الجديد DESERT50 يخصم 50 ريال على مشترياتك الأولى جربوه شغال 🔥",
+      "author": "@desertpay_user",
+      "url": "https://www.tiktok.com/post/desertpay_011",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 1500,
+        "likes": 120,
+        "comments": 15
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_012",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-30T21:52:20.709693+00:00",
+      "date": "2026-09-30",
+      "text": "DesertPay app keeps crashing whenever I try to add an Apple Pay virtual card. iPhone 15 Pro iOS 18.",
+      "author": "@desertpay_user",
+      "url": "https://www.instagram.com/post/desertpay_012",
+      "language": "en",
+      "brand": "DesertPay",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 428,
+        "comments": 32,
+        "saves": 13
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_013",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-27T19:52:20.709693+00:00",
+      "date": "2026-09-27",
+      "text": "هل يمكن فتح حساب تجاري في ديزرت باي للمتاجر الإلكترونية الصغيرة المسجلة في معروف؟",
+      "author": "@desertpay_user",
+      "url": "https://www.tiktok.com/post/desertpay_013",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 1749,
+        "likes": 139,
+        "comments": 17
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_014",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-24T17:52:20.709693+00:00",
+      "date": "2026-09-24",
+      "text": "ميزة الادخار التلقائي بحصالة ديزرت باي خلتني أوفر أكثر من 2000 ريال شهرياً بدون ما أحس! فكرة عبقرية 💰",
+      "author": "@desertpay_user",
+      "url": "https://www.instagram.com/post/desertpay_014",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 481,
+        "comments": 36,
+        "saves": 15
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_015",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-21T15:52:20.709693+00:00",
+      "date": "2026-09-21",
+      "text": "رفعوا رسوم السحب النقدي من الصرافات إلى 10 ريالات للعملية الواحدة! ليش هالجشع يا ديزرت باي؟",
+      "author": "@desertpay_user",
+      "url": "https://www.tiktok.com/post/desertpay_015",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 2040,
+        "likes": 163,
+        "comments": 20
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_016",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-16T13:52:20.709693+00:00",
+      "date": "2026-10-16",
+      "text": "DesertPay partners with Visa to introduce GCC-wide virtual card cashback programs.",
+      "author": "@desertpay_user",
+      "url": "https://www.instagram.com/post/desertpay_016",
+      "language": "en",
+      "brand": "DesertPay",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 540,
+        "comments": 40,
+        "saves": 16
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_017",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-13T11:52:20.709693+00:00",
+      "date": "2026-10-13",
+      "text": "خدمة عملاء ديزرت باي ما في مثلهم، انسرقت بيانات بطاقتي وعوضوني بالمبلغ فوراً بعد التحقيق شكراً لكم 🙏",
+      "author": "@desertpay_user",
+      "url": "https://www.tiktok.com/post/desertpay_017",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 2380,
+        "likes": 190,
+        "comments": 23
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_018",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-10T09:52:20.709693+00:00",
+      "date": "2026-10-10",
+      "text": "ما شاء الله على السيرفرات القوية، أول يوم نزول الرواتب التطبيق يوقف وما نقدر نحاسب في البقالة! روعة الصراحة 🙃",
+      "author": "@desertpay_user",
+      "url": "https://www.instagram.com/post/desertpay_018",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": true,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 607,
+        "comments": 45,
+        "saves": 18
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_019",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-08T07:52:20.709693+00:00",
+      "date": "2026-10-08",
+      "text": "كيف أحول نقاط مكافآت ديزرت باي إلى أميال فرسان؟",
+      "author": "@desertpay_user",
+      "url": "https://www.tiktok.com/post/desertpay_019",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 2776,
+        "likes": 222,
+        "comments": 27
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_020",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-05T05:52:20.709693+00:00",
+      "date": "2026-10-05",
+      "text": "Super fast KYC approval on DesertPay! Took literally 30 seconds with Saudi Nafath.",
+      "author": "@desertpay_user",
+      "url": "https://www.instagram.com/post/desertpay_020",
+      "language": "en",
+      "brand": "DesertPay",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 682,
+        "comments": 51,
+        "saves": 21
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_021",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-02T03:52:20.709693+00:00",
+      "date": "2026-10-02",
+      "text": "صاحب محطة الوقود رفض يقبل بطاقة ديزرت باي بحجة أن أجهزة نقاط البيع ترفضها.. وين المشكلة بالضبط؟",
+      "author": "@desertpay_user",
+      "url": "https://www.tiktok.com/post/desertpay_021",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 3238,
+        "likes": 259,
+        "comments": 32
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_022",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-29T01:52:20.709693+00:00",
+      "date": "2026-09-29",
+      "text": "تحديث تطبيق ديزرت باي الأخير حسن استهلاك البطارية والواجهة صارت أسرع بكثير 👏",
+      "author": "@desertpay_user",
+      "url": "https://www.instagram.com/post/desertpay_022",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Gulf",
+      "engagement": {
+        "likes": 766,
+        "comments": 57,
+        "saves": 23
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_023",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-25T23:52:20.709693+00:00",
+      "date": "2026-09-25",
+      "text": "مقارنة رسوم التحويل إلى مصر والفلبين بين ديزرت باي والمنافسين.. تفاصيل كاملة في الفيديو.",
+      "author": "@desertpay_user",
+      "url": "https://www.tiktok.com/post/desertpay_023",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "views": 3777,
+        "likes": 302,
+        "comments": 37
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_024",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-22T21:52:20.709693+00:00",
+      "date": "2026-09-22",
+      "text": "I was charged twice for a single order at Starbucks using DesertPay contactless payment.",
+      "author": "@desertpay_user",
+      "url": "https://www.instagram.com/post/desertpay_024",
+      "language": "en",
+      "brand": "DesertPay",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 861,
+        "comments": 64,
+        "saves": 26
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_025",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-17T19:52:20.709693+00:00",
+      "date": "2026-10-17",
+      "text": "عروض استرجاع الكاش باك مع نقد الصحراء بمناسبة عيد الفطر المبارك تبدأ غداً.",
+      "author": "@desertpay_user",
+      "url": "https://www.tiktok.com/post/desertpay_025",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "views": 4405,
+        "likes": 352,
+        "comments": 44
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_026",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-14T17:52:20.709693+00:00",
+      "date": "2026-10-14",
+      "text": "ديزرت باي فازت بجائزة أفضل ابتكار مالي في مؤتمر فنتك الشرق الأوسط 2026 يستاهلون 🏆",
+      "author": "@desertpay_user",
+      "url": "https://www.instagram.com/post/desertpay_026",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Emirati",
+      "engagement": {
+        "likes": 339,
+        "comments": 25,
+        "saves": 10
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_027",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-11T15:52:20.709693+00:00",
+      "date": "2026-10-11",
+      "text": "طلبت كشف حساب رسمي مختوم من ديزرت باي لتأشيرة الشنغن ولهم 10 أيام يماطلون!",
+      "author": "@desertpay_user",
+      "url": "https://www.tiktok.com/post/desertpay_027",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 5138,
+        "likes": 411,
+        "comments": 51
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_028",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-08T13:52:20.709693+00:00",
+      "date": "2026-10-08",
+      "text": "Love the dark mode UI on DesertPay. Makes tracking daily expenses so clean and easy.",
+      "author": "@desertpay_user",
+      "url": "https://www.instagram.com/post/desertpay_028",
+      "language": "en",
+      "brand": "DesertPay",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 381,
+        "comments": 28,
+        "saves": 11
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_029",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-05T11:52:20.709693+00:00",
+      "date": "2026-10-05",
+      "text": "كم الحد الأعلى للتحويل اليومي بين محافظ ديزرت باي بدون توثيق إضافي؟",
+      "author": "@desertpay_user",
+      "url": "https://www.tiktok.com/post/desertpay_029",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 5994,
+        "likes": 479,
+        "comments": 59
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_desertpay_030",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-02T09:52:20.709693+00:00",
+      "date": "2026-10-02",
+      "text": "فريق الدعم الفني في ديزرت باي ما يردون على الإيميلات نهائياً من أسبوع كامل!",
+      "author": "@desertpay_user",
+      "url": "https://www.instagram.com/post/desertpay_030",
+      "language": "ar",
+      "brand": "DesertPay",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 428,
+        "comments": 32,
+        "saves": 13
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_001",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-30T07:52:20.709693+00:00",
+      "date": "2026-09-30",
+      "text": "طلبت مقاضي البيت الأسبوعية من تطبيق واحة التجزئة Oasis Retail، وصل الطلب مغلف ومرتب خلال 40 دقيقة بالضبط والفواكه طازجة جداً! 🍎🛒",
+      "author": "@oasis_retail_user",
+      "url": "https://www.instagram.com/post/oasis_001",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Delivery & Logistics",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Emirati",
+      "engagement": {
+        "likes": 453,
+        "comments": 34,
+        "saves": 14
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_002",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-27T05:52:20.709693+00:00",
+      "date": "2026-09-27",
+      "text": "أسواق الواحة @oasis_retail للأسف مستوى التوصيل تراجع في جدة.. المندوب تأخر ساعتين والآيس كريم واصل ذايب تماماً! 😡🍦",
+      "author": "@oasis_retail_user",
+      "url": "https://www.tiktok.com/post/oasis_002",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Delivery & Logistics",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 1620,
+        "likes": 129,
+        "comments": 16
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_003",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-24T03:52:20.709693+00:00",
+      "date": "2026-09-24",
+      "text": "Weekend mega clearance sale at Oasis Retail Festival City! Got premium cookware at 60% off. Clean aisles and fast checkout. 🛍️",
+      "author": "@oasis_retail_user",
+      "url": "https://www.instagram.com/post/oasis_003",
+      "language": "en",
+      "brand": "Oasis Retail",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 510,
+        "comments": 38,
+        "saves": 15
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_004",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-19T01:52:20.709693+00:00",
+      "date": "2026-10-19",
+      "text": "جولة في فرع واحة التجزئة الجديد في الظهران مول.. هل هو أفضل من الفروع القديمة؟",
+      "author": "@oasis_retail_user",
+      "url": "https://www.tiktok.com/post/oasis_004",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 1889,
+        "likes": 151,
+        "comments": 18
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_005",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-15T23:52:20.709693+00:00",
+      "date": "2026-10-15",
+      "text": "شكراً واحة التجزئة على التغليف الخرافي، كرتون البيض مكسور والزيت منسكب فوق الخضار! شغل نظيف ما شاء الله 👏📦",
+      "author": "@oasis_retail_user",
+      "url": "https://www.instagram.com/post/oasis_005",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Delivery & Logistics",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": true,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 573,
+        "comments": 42,
+        "saves": 17
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_006",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-12T21:52:20.709693+00:00",
+      "date": "2026-10-12",
+      "text": "عروض الخضار واللحوم الطازجة في واحة التجزئة كل يوم اثنين لا تفوتكم، الأسعار أرخص من حلقة الخضار 🥩🥬",
+      "author": "@oasis_retail_user",
+      "url": "https://www.tiktok.com/post/oasis_006",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 2203,
+        "likes": 176,
+        "comments": 22
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_007",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-09T19:52:20.709693+00:00",
+      "date": "2026-10-09",
+      "text": "اشتريت جهاز من فرع الواحة وطلع عطلان ورفضوا يرجعونه لأن الكرتون مفتوح! وين حقوق المستهلك؟",
+      "author": "@oasis_retail_user",
+      "url": "https://www.instagram.com/post/oasis_007",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 643,
+        "comments": 48,
+        "saves": 20
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_008",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-06T17:52:20.709693+00:00",
+      "date": "2026-10-06",
+      "text": "هل تطبيق واحة التجزئة يوفر توصيل لنفس اليوم في مدينة العين؟",
+      "author": "@oasis_retail_user",
+      "url": "https://www.tiktok.com/post/oasis_008",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Delivery & Logistics",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Emirati",
+      "engagement": {
+        "views": 2570,
+        "likes": 205,
+        "comments": 25
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_009",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-03T15:52:20.709693+00:00",
+      "date": "2026-10-03",
+      "text": "Oasis Retail grocery subscription delivers organic milk and eggs every Sunday without fail. Life saver for busy families! 🥛",
+      "author": "@oasis_retail_user",
+      "url": "https://www.instagram.com/post/oasis_009",
+      "language": "en",
+      "brand": "Oasis Retail",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Delivery & Logistics",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 723,
+        "comments": 54,
+        "saves": 22
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_010",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-30T13:52:20.709693+00:00",
+      "date": "2026-09-30",
+      "text": "أسعار واحة التجزئة في المواد التموينية ارتفعت فجأة بنسبة 20% مقارنة بالسوبرماركت اللي جنبه!",
+      "author": "@oasis_retail_user",
+      "url": "https://www.tiktok.com/post/oasis_010",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 2998,
+        "likes": 239,
+        "comments": 29
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_011",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-27T11:52:20.709693+00:00",
+      "date": "2026-09-27",
+      "text": "برنامج ولاء واحة التجزئة يمنحك نقاط على كل ريال، وفرت 300 ريال بمشتريات مقاضي رمضان 👍",
+      "author": "@oasis_retail_user",
+      "url": "https://www.instagram.com/post/oasis_011",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 812,
+        "comments": 60,
+        "saves": 25
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_012",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-24T09:52:20.709693+00:00",
+      "date": "2026-09-24",
+      "text": "مندوب توصيل الواحة دق الجرس ومشى وحط الأكياس برا في الشمس الحارة بدون ما يتأكد من استلامي!",
+      "author": "@oasis_retail_user",
+      "url": "https://www.tiktok.com/post/oasis_012",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Delivery & Logistics",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 3497,
+        "likes": 279,
+        "comments": 34
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_013",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-22T07:52:20.709693+00:00",
+      "date": "2026-09-22",
+      "text": "Oasis Retail launches autonomous self-checkout kiosks across all major Dubai branches.",
+      "author": "@oasis_retail_user",
+      "url": "https://www.instagram.com/post/oasis_013",
+      "language": "en",
+      "brand": "Oasis Retail",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 320,
+        "comments": 24,
+        "saves": 10
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_014",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-17T05:52:20.709693+00:00",
+      "date": "2026-10-17",
+      "text": "قسم المخبوزات والحلويات الفرنسية في واحة التجزئة فرع التحلية إدمان لا يوصف خصوصاً الكرواسون 🥐✨",
+      "author": "@oasis_retail_user",
+      "url": "https://www.tiktok.com/post/oasis_014",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 4079,
+        "likes": 326,
+        "comments": 40
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_015",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-14T03:52:20.709693+00:00",
+      "date": "2026-10-14",
+      "text": "تطبيق واحة التجزئة يسحب المبلغ مرتين عند الدفع عن طريق مدى والدعم الفني يقول راجع البنك!",
+      "author": "@oasis_retail_user",
+      "url": "https://www.instagram.com/post/oasis_015",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 359,
+        "comments": 26,
+        "saves": 11
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_016",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-11T01:52:20.709693+00:00",
+      "date": "2026-10-11",
+      "text": "ما مواعيد عمل فرع واحة التجزئة في طريق الملك فهد بالرياض خلال إجازة عيد الأضحى؟",
+      "author": "@oasis_retail_user",
+      "url": "https://www.tiktok.com/post/oasis_016",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 4758,
+        "likes": 380,
+        "comments": 47
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_017",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-07T23:52:20.709693+00:00",
+      "date": "2026-10-07",
+      "text": "Great customer service at Oasis Retail Abu Dhabi! Lost my wallet in the trolley and security safely returned it intact.",
+      "author": "@oasis_retail_user",
+      "url": "https://www.instagram.com/post/oasis_017",
+      "language": "en",
+      "brand": "Oasis Retail",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 403,
+        "comments": 30,
+        "saves": 12
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_018",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-04T21:52:20.709693+00:00",
+      "date": "2026-10-04",
+      "text": "يعطيكم العافية يا واحة التجزئة، طالب طلبية بقيمة 800 ريال وتجيبون نصف الأغراض ناقصة بدون تعويض! خدمة فخمة 🙃",
+      "author": "@oasis_retail_user",
+      "url": "https://www.tiktok.com/post/oasis_018",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": true,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 5550,
+        "likes": 444,
+        "comments": 55
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_019",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-01T19:52:20.709693+00:00",
+      "date": "2026-10-01",
+      "text": "هل تتوفر منتجات خالية من الغلوتين في فروع أسواق الواحة بالشارقة؟",
+      "author": "@oasis_retail_user",
+      "url": "https://www.instagram.com/post/oasis_019",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Emirati",
+      "engagement": {
+        "likes": 453,
+        "comments": 34,
+        "saves": 14
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_020",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-28T17:52:20.709693+00:00",
+      "date": "2026-09-28",
+      "text": "تطبيق واحة التجزئة تصميمه يفتح النفس، ميزة إعادة طلب المقاضي بلمسة واحدة سهلت حياتنا كثير 📲🛒",
+      "author": "@oasis_retail_user",
+      "url": "https://www.tiktok.com/post/oasis_020",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 6473,
+        "likes": 517,
+        "comments": 64
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_021",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-25T15:52:20.709693+00:00",
+      "date": "2026-09-25",
+      "text": "The organic produce section at Oasis Retail was completely empty today at 5 PM. Poor replenishment management.",
+      "author": "@oasis_retail_user",
+      "url": "https://www.instagram.com/post/oasis_021",
+      "language": "en",
+      "brand": "Oasis Retail",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Delivery & Logistics",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 510,
+        "comments": 38,
+        "saves": 15
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_022",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-22T13:52:20.709693+00:00",
+      "date": "2026-09-22",
+      "text": "عروض واحة التجزئة على الأجهزة المنزلية والشاشات بمناسبة العودة للمدارس ممتازة جداً.",
+      "author": "@oasis_retail_user",
+      "url": "https://www.tiktok.com/post/oasis_022",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 1620,
+        "likes": 129,
+        "comments": 16
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_023",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-17T11:52:20.709693+00:00",
+      "date": "2026-10-17",
+      "text": "واحة التجزئة تفتتح مركز التوزيع اللوجستي المؤتمت بالكامل في المنطقة اللوجستية بالرياض.",
+      "author": "@oasis_retail_user",
+      "url": "https://www.instagram.com/post/oasis_023",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Delivery & Logistics",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "likes": 573,
+        "comments": 42,
+        "saves": 17
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_024",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-14T09:52:20.709693+00:00",
+      "date": "2026-10-14",
+      "text": "رسوم التوصيل السريع في تطبيق الواحة صارت 25 ريال للطلب الواحد.. سعر مبالغ فيه جداً!",
+      "author": "@oasis_retail_user",
+      "url": "https://www.tiktok.com/post/oasis_024",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 1889,
+        "likes": 151,
+        "comments": 18
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_025",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-12T07:52:20.709693+00:00",
+      "date": "2026-10-12",
+      "text": "Oasis Retail app is so intuitive. Search filters for vegan and gluten-free items work like a charm.",
+      "author": "@oasis_retail_user",
+      "url": "https://www.instagram.com/post/oasis_025",
+      "language": "en",
+      "brand": "Oasis Retail",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 643,
+        "comments": 48,
+        "saves": 20
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_026",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-09T05:52:20.709693+00:00",
+      "date": "2026-10-09",
+      "text": "هل كود خصم OASIS20 صالح للاستخدام داخل الفروع أو فقط عبر التطبيق؟",
+      "author": "@oasis_retail_user",
+      "url": "https://www.tiktok.com/post/oasis_026",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 2203,
+        "likes": 176,
+        "comments": 22
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_027",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-06T03:52:20.709693+00:00",
+      "date": "2026-10-06",
+      "text": "وجدت منتجات منتهية الصلاحية معروضة على الرف في فرع واحة التجزئة.. يرجى تشديد الرقابة الصحية!",
+      "author": "@oasis_retail_user",
+      "url": "https://www.instagram.com/post/oasis_027",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 723,
+        "comments": 54,
+        "saves": 22
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_028",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-03T01:52:20.709693+00:00",
+      "date": "2026-10-03",
+      "text": "مواقف السيارات في فرع الواحة واسعة ومريحة مع توفر شواحن مجانية للسيارات الكهربائية ⚡🚗",
+      "author": "@oasis_retail_user",
+      "url": "https://www.tiktok.com/post/oasis_028",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Emirati",
+      "engagement": {
+        "views": 2570,
+        "likes": 205,
+        "comments": 25
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_029",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-29T23:52:20.709693+00:00",
+      "date": "2026-09-29",
+      "text": "Delayed delivery by 3 hours from Oasis Retail without any notification or driver call. Ruined our dinner plans.",
+      "author": "@oasis_retail_user",
+      "url": "https://www.instagram.com/post/oasis_029",
+      "language": "en",
+      "brand": "Oasis Retail",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Delivery & Logistics",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 812,
+        "comments": 60,
+        "saves": 25
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_oasis_030",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-26T21:52:20.709693+00:00",
+      "date": "2026-09-26",
+      "text": "أسواق الواحة تعلن عن بدء استقبال طلبات التوظيف الموسمي للمواطنين في فروع مكة والمدينة.",
+      "author": "@oasis_retail_user",
+      "url": "https://www.tiktok.com/post/oasis_030",
+      "language": "ar",
+      "brand": "Oasis Retail",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "views": 2998,
+        "likes": 239,
+        "comments": 29
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_001",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-23T19:52:20.709693+00:00",
+      "date": "2026-09-23",
+      "text": "يا جماعة مو معقول أسعار صقر رايد Falcon Ride وقت خروج الموظفين في الرياض! المشوار صار بـ 110 ريال والسعر العادي 35.. سلامات؟! 🚗💸",
+      "author": "@falcon_ride_user",
+      "url": "https://www.tiktok.com/post/falcon_001",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 3238,
+        "likes": 259,
+        "comments": 32
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_002",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-18T17:52:20.709693+00:00",
+      "date": "2026-10-18",
+      "text": "Falcon Ride driver cancelled after making me wait 20 minutes in 43°C heat outside Dubai Mall, and the app charged ME a cancellation fee! 🚗🔥",
+      "author": "@falcon_ride_user",
+      "url": "https://www.instagram.com/post/falcon_002",
+      "language": "en",
+      "brand": "Falcon Ride",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 339,
+        "comments": 25,
+        "saves": 10
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_003",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-15T15:52:20.709693+00:00",
+      "date": "2026-10-15",
+      "text": "ميزة الحجز المسبق في صقر رايد للمطار ممتازة جداً. السائق وصل قبل الموعد بـ 10 دقائق وسيارة نظيفة وقيادة هادئة 👍✈️",
+      "author": "@falcon_ride_user",
+      "url": "https://www.tiktok.com/post/falcon_003",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 3777,
+        "likes": 302,
+        "comments": 37
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_004",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-12T13:52:20.709693+00:00",
+      "date": "2026-10-12",
+      "text": "كود خصم صقر رايد FALCON25 شغال حالياً في أبوظبي والشارقة خصم 25% على أول 3 مشاوير.. جربوه وعطوني رايكم 🎟️",
+      "author": "@falcon_ride_user",
+      "url": "https://www.instagram.com/post/falcon_004",
+      "language": "mixed",
+      "brand": "Falcon Ride",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Emirati",
+      "engagement": {
+        "likes": 381,
+        "comments": 28,
+        "saves": 11
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_005",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-09T11:52:20.709693+00:00",
+      "date": "2026-10-09",
+      "text": "يا زين كابتن صقر رايد، لافف فيني نص شوارع الرياض عشان يزيد العداد وقال ما أعرف الطريق! قمة الأمانة ما قصرتوا 👏🗺️",
+      "author": "@falcon_ride_user",
+      "url": "https://www.tiktok.com/post/falcon_005",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": true,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 4405,
+        "likes": 352,
+        "comments": 44
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_006",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-06T09:52:20.709693+00:00",
+      "date": "2026-10-06",
+      "text": "Falcon Ride EV fleet in Dubai is so clean and quiet. Professional chauffeurs and smooth ride.",
+      "author": "@falcon_ride_user",
+      "url": "https://www.instagram.com/post/falcon_006",
+      "language": "en",
+      "brand": "Falcon Ride",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 428,
+        "comments": 32,
+        "saves": 13
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_007",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-04T07:52:20.709693+00:00",
+      "date": "2026-10-04",
+      "text": "تطبيق صقر رايد سحب من بطاقتي مبلغ المشوار مرتين والمشوار تكنسل أصلاً! أرجعوا فلوسي يا صقر",
+      "author": "@falcon_ride_user",
+      "url": "https://www.tiktok.com/post/falcon_007",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 5138,
+        "likes": 411,
+        "comments": 51
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_008",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-01T05:52:20.709693+00:00",
+      "date": "2026-10-01",
+      "text": "هل يسمح باصطحاب الحيوانات الأليفة الصغيرة في مشاوير صقر رايد داخل السعودية؟",
+      "author": "@falcon_ride_user",
+      "url": "https://www.instagram.com/post/falcon_008",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 481,
+        "comments": 36,
+        "saves": 15
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_009",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-28T03:52:20.709693+00:00",
+      "date": "2026-09-28",
+      "text": "صقر رايد أسرع تطبيق يلقى لك كابتن في وقت المطر بزحمة طريق الملك فهد، شكراً للخدمة السريعة 🌧️🚗",
+      "author": "@falcon_ride_user",
+      "url": "https://www.tiktok.com/post/falcon_009",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Delivery & Logistics",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 5994,
+        "likes": 479,
+        "comments": 59
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_010",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-25T01:52:20.709693+00:00",
+      "date": "2026-09-25",
+      "text": "Customer care on Falcon Ride app refused to investigate driver reckless driving. Very poor safety escalation.",
+      "author": "@falcon_ride_user",
+      "url": "https://www.instagram.com/post/falcon_010",
+      "language": "en",
+      "brand": "Falcon Ride",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 540,
+        "comments": 40,
+        "saves": 16
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_011",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-21T23:52:20.709693+00:00",
+      "date": "2026-09-21",
+      "text": "اشتراك صقر بلس الشهري وفر علي مبالغ كبيرة بالمشاوير اليومية للدوام، ميزة إلغاء رسوم الذروة بطلة 💯",
+      "author": "@falcon_ride_user",
+      "url": "https://www.tiktok.com/post/falcon_011",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 1500,
+        "likes": 120,
+        "comments": 15
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_012",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-16T21:52:20.709693+00:00",
+      "date": "2026-10-16",
+      "text": "السائق طلب مني إلغاء الطلب والدفع كاش بحجة أن نسبة الشركة عالية! وين الرقابة على السائقين؟",
+      "author": "@falcon_ride_user",
+      "url": "https://www.instagram.com/post/falcon_012",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 607,
+        "comments": 45,
+        "saves": 18
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_013",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-13T19:52:20.709693+00:00",
+      "date": "2026-10-13",
+      "text": "كم النسبة المقتطعة من كباتن صقر رايد السعوديين في مشاوير التوصيل داخل المدن؟",
+      "author": "@falcon_ride_user",
+      "url": "https://www.tiktok.com/post/falcon_013",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 1749,
+        "likes": 139,
+        "comments": 17
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_014",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-10T17:52:20.709693+00:00",
+      "date": "2026-10-10",
+      "text": "Had a lovely trip with Falcon Ride from Abu Dhabi to Dubai. Comfortable Lexus sedan and polite driver.",
+      "author": "@falcon_ride_user",
+      "url": "https://www.instagram.com/post/falcon_014",
+      "language": "en",
+      "brand": "Falcon Ride",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Delivery & Logistics",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 682,
+        "comments": 51,
+        "saves": 21
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_015",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-07T15:52:20.709693+00:00",
+      "date": "2026-10-07",
+      "text": "تطبيق صقر رايد يهنق وما يحدد الموقع على الـ GPS بدقة، دايم ينزل السائق في الشارع الخلفي!",
+      "author": "@falcon_ride_user",
+      "url": "https://www.tiktok.com/post/falcon_015",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 2040,
+        "likes": 163,
+        "comments": 20
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_016",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-04T13:52:20.709693+00:00",
+      "date": "2026-10-04",
+      "text": "شركة صقر رايد تعلن عن توسيع أسطول المركبات الكهربائية الصديقة للبيئة في موسم الرياض.",
+      "author": "@falcon_ride_user",
+      "url": "https://www.instagram.com/post/falcon_016",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "likes": 766,
+        "comments": 57,
+        "saves": 23
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_017",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-01T11:52:20.709693+00:00",
+      "date": "2026-10-01",
+      "text": "نسيت شنطتي في سيارة صقر رايد والكابتن تواصل معي ورجعها لباب البيت ورفض يأخذ أي مكافأة! أمانة وأخلاق عالية 👏",
+      "author": "@falcon_ride_user",
+      "url": "https://www.tiktok.com/post/falcon_017",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 2380,
+        "likes": 190,
+        "comments": 23
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_018",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-28T09:52:20.709693+00:00",
+      "date": "2026-09-28",
+      "text": "Falcon Ride surge pricing jumped from 1.2x to 3.5x within 3 minutes after the concert ended. Pure price gouging.",
+      "author": "@falcon_ride_user",
+      "url": "https://www.instagram.com/post/falcon_018",
+      "language": "en",
+      "brand": "Falcon Ride",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 861,
+        "comments": 64,
+        "saves": 26
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_019",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-26T07:52:20.709693+00:00",
+      "date": "2026-09-26",
+      "text": "كيف اقدم للعمل كابتن توصيل في تطبيق صقر رايد بسيارتي الخاصة؟",
+      "author": "@falcon_ride_user",
+      "url": "https://www.tiktok.com/post/falcon_019",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 2776,
+        "likes": 222,
+        "comments": 27
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_020",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-23T05:52:20.709693+00:00",
+      "date": "2026-09-23",
+      "text": "خدمة سريعة جداً ما شاء الله، انتظر السائق 35 دقيقة عشان مشوار مدته 5 دقائق! يعطيكم ألف عافية 🙃",
+      "author": "@falcon_ride_user",
+      "url": "https://www.instagram.com/post/falcon_020",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Delivery & Logistics",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": true,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 339,
+        "comments": 25,
+        "saves": 10
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_021",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-18T03:52:20.709693+00:00",
+      "date": "2026-10-18",
+      "text": "أفضل ميزة في صقر رايد هي خيار المشاوير النسائية مع كابتن أنثى، راحة وأمان وخصوصية تامة 🌸🚗",
+      "author": "@falcon_ride_user",
+      "url": "https://www.tiktok.com/post/falcon_021",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 3238,
+        "likes": 259,
+        "comments": 32
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_022",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-15T01:52:20.709693+00:00",
+      "date": "2026-10-15",
+      "text": "App charged my credit card despite showing 'Payment Failed'. Waiting for customer support since yesterday.",
+      "author": "@falcon_ride_user",
+      "url": "https://www.instagram.com/post/falcon_022",
+      "language": "en",
+      "brand": "Falcon Ride",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 381,
+        "comments": 28,
+        "saves": 11
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_023",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-11T23:52:20.709693+00:00",
+      "date": "2026-10-11",
+      "text": "هل بطاقات مدى مسبقة الدفع مقبولة في تطبيق صقر رايد؟",
+      "author": "@falcon_ride_user",
+      "url": "https://www.tiktok.com/post/falcon_023",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 3777,
+        "likes": 302,
+        "comments": 37
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_024",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-08T21:52:20.709693+00:00",
+      "date": "2026-10-08",
+      "text": "سائق صقر رايد كان جداً محترم وشغل تكييف السيارة بدون طلب وكانت رحلة مريحة بعد يوم عمل شاق.",
+      "author": "@falcon_ride_user",
+      "url": "https://www.instagram.com/post/falcon_024",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Emirati",
+      "engagement": {
+        "likes": 428,
+        "comments": 32,
+        "saves": 13
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_025",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-05T19:52:20.709693+00:00",
+      "date": "2026-10-05",
+      "text": "الكابتن يقبل المشوار ويوقف سيارته بعيد وما يتحرك عشان يخليني أنا ألغي المشوار وأتحمل رسوم الإلغاء!",
+      "author": "@falcon_ride_user",
+      "url": "https://www.tiktok.com/post/falcon_025",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 4405,
+        "likes": 352,
+        "comments": 44
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_026",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-02T17:52:20.709693+00:00",
+      "date": "2026-10-02",
+      "text": "Falcon Ride introduces pet-friendly rides category in selected Riyadh districts.",
+      "author": "@falcon_ride_user",
+      "url": "https://www.instagram.com/post/falcon_026",
+      "language": "en",
+      "brand": "Falcon Ride",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 481,
+        "comments": 36,
+        "saves": 15
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_027",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-29T15:52:20.709693+00:00",
+      "date": "2026-09-29",
+      "text": "عرض نهاية الأسبوع من صقر رايد خصم 30% على المشاوير إلى الواجهة البحرية في الخبر بطل جداً.",
+      "author": "@falcon_ride_user",
+      "url": "https://www.tiktok.com/post/falcon_027",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 5138,
+        "likes": 411,
+        "comments": 51
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_028",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-26T13:52:20.709693+00:00",
+      "date": "2026-09-26",
+      "text": "تطبيق صقر رايد كل تحديث يضيع عناوين المنزل المحفوظة وتضطر تدخلها يدوي من جديد!",
+      "author": "@falcon_ride_user",
+      "url": "https://www.instagram.com/post/falcon_028",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 540,
+        "comments": 40,
+        "saves": 16
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_029",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-23T11:52:20.709693+00:00",
+      "date": "2026-09-23",
+      "text": "Great experience booking Falcon Ride executive van for corporate airport delegates. Punctual and clean.",
+      "author": "@falcon_ride_user",
+      "url": "https://www.tiktok.com/post/falcon_029",
+      "language": "en",
+      "brand": "Falcon Ride",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Delivery & Logistics",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "views": 5994,
+        "likes": 479,
+        "comments": 59
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_falcon_030",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-18T09:52:20.709693+00:00",
+      "date": "2026-10-18",
+      "text": "ما هي شروط موديل السيارة المقبولة للعمل في صقر رايد لعام 2026؟",
+      "author": "@falcon_ride_user",
+      "url": "https://www.instagram.com/post/falcon_030",
+      "language": "ar",
+      "brand": "Falcon Ride",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 607,
+        "comments": 45,
+        "saves": 18
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_001",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-16T07:52:20.709693+00:00",
+      "date": "2026-10-16",
+      "text": "فخورون بإتمام نقل البنية التحتية لشركتنا بالكامل إلى مراكز بيانات سحابة الخليج GulfCloud في الرياض. زمن استجابة أقل من 6ms 🇸🇦☁️",
+      "author": "@gulfcloud_user",
+      "url": "https://www.instagram.com/post/gulfcloud_001",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 643,
+        "comments": 48,
+        "saves": 20
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_002",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-13T05:52:20.709693+00:00",
+      "date": "2026-10-13",
+      "text": "GulfCloud me-central-1 region experiencing elevated API latency and partial database replication outages this afternoon. Waiting on post-mortem. ⚠️",
+      "author": "@gulfcloud_user",
+      "url": "https://www.tiktok.com/post/gulfcloud_002",
+      "language": "en",
+      "brand": "GulfCloud",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "views": 1620,
+        "likes": 129,
+        "comments": 16
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_003",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-10T03:52:20.709693+00:00",
+      "date": "2026-10-10",
+      "text": "تعلن جلف كلاود GulfCloud عن برنامج دعم الشركات الناشئة برصيد سحابي يصل إلى 50,000 دولار مع تدريب مجاني للفرق التقنية. 💡🚀",
+      "author": "@gulfcloud_user",
+      "url": "https://www.instagram.com/post/gulfcloud_003",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "likes": 723,
+        "comments": 54,
+        "saves": 22
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_004",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-07T01:52:20.709693+00:00",
+      "date": "2026-10-07",
+      "text": "سحابة الخليج ما قصرتوا والله، السيرفرات طاحت بنصف الليل وقاعدة بيانات الإنتاج انضربت والـ SLA عندكم 99.9% على الورق بس! 👏💻",
+      "author": "@gulfcloud_user",
+      "url": "https://www.tiktok.com/post/gulfcloud_004",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": true,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 1889,
+        "likes": 151,
+        "comments": 18
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_005",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-03T23:52:20.709693+00:00",
+      "date": "2026-10-03",
+      "text": "Migrated our Kubernetes workloads to GulfCloud Managed K8s. Deployments are blazing fast and support team is knowledgeable.",
+      "author": "@gulfcloud_user",
+      "url": "https://www.instagram.com/post/gulfcloud_005",
+      "language": "en",
+      "brand": "GulfCloud",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 812,
+        "comments": 60,
+        "saves": 25
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_006",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-30T21:52:20.709693+00:00",
+      "date": "2026-09-30",
+      "text": "فاتورة سحابة الخليج هذا الشهر فيها رسوم خيالية غير مفهومة لخدمات نقل البيانات Data Egress بدون تفصيل واضح!",
+      "author": "@gulfcloud_user",
+      "url": "https://www.tiktok.com/post/gulfcloud_006",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 2203,
+        "likes": 176,
+        "comments": 22
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_007",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-27T19:52:20.709693+00:00",
+      "date": "2026-09-27",
+      "text": "هل مراكز بيانات GulfCloud معتمدة رسمياً من هيئة الاتصالات والفضاء والتقنية لتخزين البيانات الحكومية الحساسة من الفئة ج؟",
+      "author": "@gulfcloud_user",
+      "url": "https://www.instagram.com/post/gulfcloud_007",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 320,
+        "comments": 24,
+        "saves": 10
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_008",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-24T17:52:20.709693+00:00",
+      "date": "2026-09-24",
+      "text": "الدعم الفني للشركات في GulfCloud سريع الاستجابة جداً، مهندس الدعم اتصل معي هاتفياً وحل مشكلة شهادة SSL خلال 10 دقائق 🔒👍",
+      "author": "@gulfcloud_user",
+      "url": "https://www.tiktok.com/post/gulfcloud_008",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 2570,
+        "likes": 205,
+        "comments": 25
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_009",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-21T15:52:20.709693+00:00",
+      "date": "2026-09-21",
+      "text": "GulfCloud web console login session expires every 10 minutes and logs out engineers midway through infrastructure deployments. Annoying UX!",
+      "author": "@gulfcloud_user",
+      "url": "https://www.instagram.com/post/gulfcloud_009",
+      "language": "en",
+      "brand": "GulfCloud",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 359,
+        "comments": 26,
+        "saves": 11
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_010",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-16T13:52:20.709693+00:00",
+      "date": "2026-10-16",
+      "text": "ورشة عمل مجانية عبر الإنترنت مقدمة من سحابة الخليج لشرح بنية السحابة السيادية وحلول حماية البيانات.",
+      "author": "@gulfcloud_user",
+      "url": "https://www.tiktok.com/post/gulfcloud_010",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "views": 2998,
+        "likes": 239,
+        "comments": 29
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_011",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-13T11:52:20.709693+00:00",
+      "date": "2026-10-13",
+      "text": "أفضل خيار لاستضافة تطبيقات الويب في الشرق الأوسط، سرعة تحميل الصفحات زادت بنسبة 40% مقارنة بالاستضافات الأوروبية ⚡🇸🇦",
+      "author": "@gulfcloud_user",
+      "url": "https://www.instagram.com/post/gulfcloud_011",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 403,
+        "comments": 30,
+        "saves": 12
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_012",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-10T09:52:20.709693+00:00",
+      "date": "2026-10-10",
+      "text": "خدمة العملاء في سحابة الخليج يرفضون الرد على تذاكر الدعم العاجلة للمستوى المجاني، لهم 4 أيام بدون أي إفادة!",
+      "author": "@gulfcloud_user",
+      "url": "https://www.tiktok.com/post/gulfcloud_012",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 3497,
+        "likes": 279,
+        "comments": 34
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_013",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-08T07:52:20.709693+00:00",
+      "date": "2026-10-08",
+      "text": "GulfCloud launches Object Storage tier with S3-compatible API and automated multi-zone replication.",
+      "author": "@gulfcloud_user",
+      "url": "https://www.instagram.com/post/gulfcloud_013",
+      "language": "en",
+      "brand": "GulfCloud",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 453,
+        "comments": 34,
+        "saves": 14
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_014",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-05T05:52:20.709693+00:00",
+      "date": "2026-10-05",
+      "text": "تكامل سلس جداً بين سيرفرات GulfCloud وحلول الدفع الإلكتروني المحلية في السعودية، تجربة المطورين عندهم ممتازة 👨‍💻",
+      "author": "@gulfcloud_user",
+      "url": "https://www.tiktok.com/post/gulfcloud_014",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 4079,
+        "likes": 326,
+        "comments": 40
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_015",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-02T03:52:20.709693+00:00",
+      "date": "2026-10-02",
+      "text": "توقف مفاجئ في بوابة السداد الإلكتروني لخدمات GulfCloud تسبب في تعليق ترقية باقة التخزين لموقعنا!",
+      "author": "@gulfcloud_user",
+      "url": "https://www.instagram.com/post/gulfcloud_015",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 510,
+        "comments": 38,
+        "saves": 15
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_016",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-29T01:52:20.709693+00:00",
+      "date": "2026-09-29",
+      "text": "ما هو الحد الأدنى للاشتراك في السيرفرات السحابية المخصصة Dedicated Hosts من سحابة الخليج؟",
+      "author": "@gulfcloud_user",
+      "url": "https://www.tiktok.com/post/gulfcloud_016",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "views": 4758,
+        "likes": 380,
+        "comments": 47
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_017",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-25T23:52:20.709693+00:00",
+      "date": "2026-09-25",
+      "text": "GulfCloud's IAM role granular permission system made achieving local cybersecurity audit compliance completely stress-free.",
+      "author": "@gulfcloud_user",
+      "url": "https://www.instagram.com/post/gulfcloud_017",
+      "language": "en",
+      "brand": "GulfCloud",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 573,
+        "comments": 42,
+        "saves": 17
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_018",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-22T21:52:20.709693+00:00",
+      "date": "2026-09-22",
+      "text": "يعطيكم ألف عافية يا جلف كلاود، نزل تحديث فجأة خرب تكوين جدار الحماية وعطل مواقع العملاء ساعتين كاملة! احترافية غير مسبوقة 🙃",
+      "author": "@gulfcloud_user",
+      "url": "https://www.tiktok.com/post/gulfcloud_018",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": true,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 5550,
+        "likes": 444,
+        "comments": 55
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_019",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-17T19:52:20.709693+00:00",
+      "date": "2026-10-17",
+      "text": "سحابة الخليج تعلن عن افتتاح ثالث مركز بيانات متقدم في مدينة الجبيل الصناعية.",
+      "author": "@gulfcloud_user",
+      "url": "https://www.instagram.com/post/gulfcloud_019",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "likes": 643,
+        "comments": 48,
+        "saves": 20
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_020",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-14T17:52:20.709693+00:00",
+      "date": "2026-10-14",
+      "text": "مقارنة تكاليف البنية التحتية بين GulfCloud والمنصات العالمية.. وفرنا أكثر من 25% من التكاليف التشغيلية السنوية 📊💰",
+      "author": "@gulfcloud_user",
+      "url": "https://www.tiktok.com/post/gulfcloud_020",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 6473,
+        "likes": 517,
+        "comments": 64
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_021",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-11T15:52:20.709693+00:00",
+      "date": "2026-10-11",
+      "text": "Severe packet loss on GulfCloud UAE interconnect route today between Dubai and Riyadh. DevOps team on high alert.",
+      "author": "@gulfcloud_user",
+      "url": "https://www.instagram.com/post/gulfcloud_021",
+      "language": "en",
+      "brand": "GulfCloud",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 723,
+        "comments": 54,
+        "saves": 22
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_022",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-08T13:52:20.709693+00:00",
+      "date": "2026-10-08",
+      "text": "هل تدعم قواعد بيانات GulfCloud خاصية التشفير في وضع السكون Encryption at Rest بمفاتيح خاصة بالعميل؟",
+      "author": "@gulfcloud_user",
+      "url": "https://www.tiktok.com/post/gulfcloud_022",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 1620,
+        "likes": 129,
+        "comments": 16
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_023",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-05T11:52:20.709693+00:00",
+      "date": "2026-10-05",
+      "text": "خدمة التخزين السحابي البارد Cold Storage في سحابة الخليج ممتازة جداً للأرشفة القانونية وبأسعار رمزية.",
+      "author": "@gulfcloud_user",
+      "url": "https://www.instagram.com/post/gulfcloud_023",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "Promotions & Offers",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 812,
+        "comments": 60,
+        "saves": 25
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_024",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-02T09:52:20.709693+00:00",
+      "date": "2026-10-02",
+      "text": "حذفوا خادوم التطوير بالخطأ بدلاً من إعادة تشغيله والدعم الفني يقول لا يمكن استرجاع النسخة الاحتياطية! كارثة بكل المقاييس 🚨",
+      "author": "@gulfcloud_user",
+      "url": "https://www.tiktok.com/post/gulfcloud_024",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Customer Support",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 1889,
+        "likes": 151,
+        "comments": 18
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_025",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-30T07:52:20.709693+00:00",
+      "date": "2026-09-30",
+      "text": "GulfCloud SDK for Python and Go is well-documented and easy to integrate into Terraform CI/CD pipelines.",
+      "author": "@gulfcloud_user",
+      "url": "https://www.instagram.com/post/gulfcloud_025",
+      "language": "en",
+      "brand": "GulfCloud",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 320,
+        "comments": 24,
+        "saves": 10
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_026",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-09-27T05:52:20.709693+00:00",
+      "date": "2026-09-27",
+      "text": "جدول دورات التدريب والشهادات الاحترافية المعتمدة لمهندسي سحابة الخليج لشهر نوفمبر 2026.",
+      "author": "@gulfcloud_user",
+      "url": "https://www.tiktok.com/post/gulfcloud_026",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "MSA",
+      "engagement": {
+        "views": 2203,
+        "likes": 176,
+        "comments": 22
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_027",
+      "source": "instagram_synthetic",
+      "published_at": "2026-09-24T03:52:20.709693+00:00",
+      "date": "2026-09-24",
+      "text": "أسعار قواعد البيانات المدارة Managed PostgreSQL في سحابة الخليج أغلى من المنافسين بـ 30% بدون مبرر مقنع.",
+      "author": "@gulfcloud_user",
+      "url": "https://www.instagram.com/post/gulfcloud_027",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Pricing & Billing",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "likes": 359,
+        "comments": 26,
+        "saves": 11
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_028",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-19T01:52:20.709693+00:00",
+      "date": "2026-10-19",
+      "text": "لوحة تحكم GulfCloud سريعة وخفيفة وتدعم اللغة العربية والإنجليزية بشكل ممتاز ومتقن.",
+      "author": "@gulfcloud_user",
+      "url": "https://www.tiktok.com/post/gulfcloud_028",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "primary_theme": "App & UX Experience",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 2570,
+        "likes": 205,
+        "comments": 25
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_029",
+      "source": "instagram_synthetic",
+      "published_at": "2026-10-15T23:52:20.709693+00:00",
+      "date": "2026-10-15",
+      "text": "Unexpected network degradation on GulfCloud DNS resolving service causing timeout on our customer portals.",
+      "author": "@gulfcloud_user",
+      "url": "https://www.instagram.com/post/gulfcloud_029",
+      "language": "en",
+      "brand": "GulfCloud",
+      "sentiment": "negative",
+      "sentiment_score": -0.85,
+      "primary_theme": "Network & Outage",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "English",
+      "engagement": {
+        "likes": 403,
+        "comments": 30,
+        "saves": 12
+      },
+      "is_synthetic": true
+    },
+    {
+      "id": "gold_gulfcloud_030",
+      "source": "tiktok_synthetic",
+      "published_at": "2026-10-12T21:52:20.709693+00:00",
+      "date": "2026-10-12",
+      "text": "كيفية إعداد النسخ الاحتياطي التلقائي لقواعد البيانات في سحابة الخليج بخطوات بسيطة.",
+      "author": "@gulfcloud_user",
+      "url": "https://www.tiktok.com/post/gulfcloud_030",
+      "language": "ar",
+      "brand": "GulfCloud",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "primary_theme": "General",
+      "secondary_theme": null,
+      "confidence": 0.95,
+      "is_sarcasm": false,
+      "dialect": "Saudi",
+      "engagement": {
+        "views": 2998,
+        "likes": 239,
+        "comments": 29
+      },
+      "is_synthetic": true
+    }
+  ]
+}

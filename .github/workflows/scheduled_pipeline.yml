@@ -1,0 +1,74 @@
+name: Scheduled Social Listening Pipeline
+
+on:
+  schedule:
+    # Run every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      mock_mode:
+        description: 'Run in offline mock mode (true/false)'
+        required: true
+        default: 'true'
+
+jobs:
+  run-pipeline:
+    name: Run Ingestion, Tagging, and Validation Pipeline
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Test Suite (with moto S3 & offline mocks)
+        env:
+          MOCK_S3: "true"
+          LLM_PROVIDER: "mock"
+          AWS_REGION: "me-central-1"
+          AWS_ACCESS_KEY_ID: "testing"
+          AWS_SECRET_ACCESS_KEY: "testing"
+          S3_BUCKET_NAME: "gcc-social-listening-bucket"
+        run: |
+          pytest -v tests/
+
+      - name: Execute Social Listening Pipeline
+        env:
+          MOCK_S3: "true"
+          LLM_PROVIDER: "mock"
+          AWS_REGION: "me-central-1"
+          AWS_ACCESS_KEY_ID: "testing"
+          AWS_SECRET_ACCESS_KEY: "testing"
+          S3_BUCKET_NAME: "gcc-social-listening-bucket"
+        run: |
+          python run_pipeline.py --all
+
+      - name: Run Validation Evaluation
+        run: |
+          python scripts/validate_model.py
+
+      - name: Verify Artifacts and Dashboard Files
+        run: |
+          test -f docs/VALIDATION.md || exit 1
+          test -f dashboard/sample_data.js || exit 1
+          echo "Pipeline run completed successfully."
+
+      - name: Upload Validation Report & Logs
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: pipeline-artifacts
+          path: |
+            docs/VALIDATION.md
+            logs/
+            dashboard/sample_data.js

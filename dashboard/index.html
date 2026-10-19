@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GCC Social Listening & Brand Intelligence Pipeline</title>
+  <meta name="description" content="Production GCC social listening dashboard with multilingual sentiment, Arabic dialect sarcasm detection, S3 lakehouse integration, and Google Trends correlation.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-layout">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="header-branding">
+        <div class="logo-badge">GCC</div>
+        <div>
+          <h1>GCC Social Listening & Brand Intelligence</h1>
+          <p class="subtitle">Ingestion → AWS S3 → Multilingual AI Tagging → Real-time Insight Dashboard</p>
+        </div>
+      </div>
+      <div class="header-badges">
+        <span class="status-pill live-pill" title="S3 Lakehouse Ingestion Live">
+          <span class="pulsing-dot"></span> Pipeline Active
+        </span>
+        <span class="status-pill synthetic-badge" title="Complies with platform terms of service prohibiting automated scraping">
+          🛡️ Synthetic & Official APIs
+        </span>
+        <button id="themeToggleBtn" class="btn-icon" aria-label="Toggle Dark/Light Theme" title="Toggle Theme">
+          🌓
+        </button>
+      </div>
+    </header>
+
+    <!-- Executive "So What?" Summary Banner -->
+    <section class="executive-summary-section" aria-labelledby="execSummaryHeading">
+      <div class="summary-header">
+        <div class="summary-title-wrapper">
+          <span class="summary-icon">⚡</span>
+          <div>
+            <h2 id="execSummaryHeading">Weekly Executive "So What?" Synthesis</h2>
+            <p class="summary-timestamp" id="execTimestamp">Updated: October 19, 2026</p>
+          </div>
+        </div>
+        <div class="summary-badge">Strategic Action Items</div>
+      </div>
+      <div class="insights-grid" id="insightsContainer">
+        <!-- Rendered via app.js -->
+      </div>
+    </section>
+
+    <!-- Filters Section -->
+    <section class="filters-bar" aria-label="Data Filters">
+      <div class="filter-group">
+        <label for="brandFilter">Brand</label>
+        <select id="brandFilter">
+          <option value="ALL">All GCC Brands (5)</option>
+          <option value="Al-Noor Telecom">Al-Noor Telecom (النور)</option>
+          <option value="DesertPay">DesertPay (ديزرت باي)</option>
+          <option value="Oasis Retail">Oasis Retail (واحة التجزئة)</option>
+          <option value="Falcon Ride">Falcon Ride (صقر رايد)</option>
+          <option value="GulfCloud">GulfCloud (سحابة الخليج)</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label for="platformFilter">Platform</label>
+        <select id="platformFilter">
+          <option value="ALL">All Platforms</option>
+          <option value="tiktok">TikTok (Synthetic)</option>
+          <option value="instagram">Instagram (Synthetic)</option>
+          <option value="youtube">YouTube (Official API)</option>
+          <option value="google_trends">Google Trends</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label for="languageFilter">Language</label>
+        <select id="languageFilter">
+          <option value="ALL">All Languages</option>
+          <option value="ar">Arabic (العربية)</option>
+          <option value="en">English</option>
+          <option value="mixed">Mixed (Bilingual)</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label for="sentimentFilter">Sentiment</label>
+        <select id="sentimentFilter">
+          <option value="ALL">All Sentiments</option>
+          <option value="positive">Positive</option>
+          <option value="negative">Negative</option>
+          <option value="neutral">Neutral</option>
+        </select>
+      </div>
+
+      <div class="filter-group search-group">
+        <label for="searchInput">Search Posts</label>
+        <input type="text" id="searchInput" placeholder="Search keywords, #hashtags, handles...">
+      </div>
+
+      <button id="resetFiltersBtn" class="btn-secondary" title="Reset all active filters">
+        Reset Filters
+      </button>
+    </section>
+
+    <!-- Key Metrics Cards -->
+    <section class="metrics-grid" aria-label="Key Performance Indicators">
+      <div class="kpi-card">
+        <div class="kpi-label">Total Mentions Tracked</div>
+        <div class="kpi-value" id="kpiTotalMentions">--</div>
+        <div class="kpi-subtext" id="kpiSyntheticSplit">100% compliant data lake</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Net Sentiment Score</div>
+        <div class="kpi-value" id="kpiNetSentiment">--</div>
+        <div class="kpi-subtext" id="kpiNetSentimentSub">% Positive − % Negative</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Leading Brand (Share of Voice)</div>
+        <div class="kpi-value" id="kpiLeadingBrand">--</div>
+        <div class="kpi-subtext" id="kpiLeadingBrandShare">--</div>
+      </div>
+      <div class="kpi-card alert-card">
+        <div class="kpi-label">Active Operational Incidents</div>
+        <div class="kpi-value warning-text" id="kpiActiveAlerts">--</div>
+        <div class="kpi-subtext">Network & Outage complaints</div>
+      </div>
+    </section>
+
+    <!-- Charts Grid -->
+    <section class="charts-grid">
+      <!-- Share of Voice -->
+      <div class="chart-card">
+        <div class="chart-header">
+          <h3>Share of Voice across GCC Brands</h3>
+          <span class="chart-tag">Volume Distribution</span>
+        </div>
+        <div class="chart-body">
+          <canvas id="sovChart" aria-label="Share of Voice Chart" role="img"></canvas>
+        </div>
+      </div>
+
+      <!-- Sentiment Trend Over Time -->
+      <div class="chart-card">
+        <div class="chart-header">
+          <h3>Sentiment Trajectory (30-Day Trend)</h3>
+          <span class="chart-tag">Positive vs Negative vs Neutral</span>
+        </div>
+        <div class="chart-body">
+          <canvas id="sentimentTrendChart" aria-label="Sentiment Trend Chart" role="img"></canvas>
+        </div>
+      </div>
+
+      <!-- Top Themes Breakdown -->
+      <div class="chart-card">
+        <div class="chart-header">
+          <h3>Top Discussion Themes & Operational Drivers</h3>
+          <span class="chart-tag">Categorized by AI Tagging</span>
+        </div>
+        <div class="chart-body">
+          <canvas id="themesChart" aria-label="Top Themes Chart" role="img"></canvas>
+        </div>
+      </div>
+
+      <!-- Google Trends Overlay -->
+      <div class="chart-card">
+        <div class="chart-header">
+          <h3>Google Search Interest vs Social Volume Overlay</h3>
+          <span class="chart-tag">Dual-Axis Correlation</span>
+        </div>
+        <div class="chart-body">
+          <canvas id="trendsOverlayChart" aria-label="Google Trends Overlay Chart" role="img"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <!-- Feed / Posts Table -->
+    <section class="feed-section" aria-labelledby="feedHeading">
+      <div class="feed-header">
+        <div>
+          <h2 id="feedHeading">Live Monitored Feed & Classification Explorer</h2>
+          <p class="feed-subtitle">Audited posts with language, dialect, sarcasm markers, and sentiment scores</p>
+        </div>
+        <div class="feed-actions">
+          <span class="post-count-badge" id="visibleCountBadge">Showing 0 posts</span>
+          <button id="exportCsvBtn" class="btn-secondary" title="Export filtered posts to CSV">
+            📥 Export CSV
+          </button>
+        </div>
+      </div>
+
+      <div class="table-wrapper">
+        <table id="postsTable">
+          <thead>
+            <tr>
+              <th scope="col">Date</th>
+              <th scope="col">Platform</th>
+              <th scope="col">Brand</th>
+              <th scope="col">Text Content</th>
+              <th scope="col">Language / Dialect</th>
+              <th scope="col">Primary Theme</th>
+              <th scope="col">Sentiment</th>
+              <th scope="col">Engagement</th>
+            </tr>
+          </thead>
+          <tbody id="postsTableBody">
+            <!-- Rendered dynamically via app.js -->
+          </tbody>
+        </table>
+      </div>
+
+      <!-- Pagination -->
+      <div class="pagination-bar">
+        <button id="prevPageBtn" class="btn-page" disabled>Previous</button>
+        <span id="pageIndicator" class="page-indicator">Page 1 of 1</span>
+        <button id="nextPageBtn" class="btn-page">Next</button>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <div class="footer-content">
+        <p><strong>GCC Social Listening Pipeline</strong> &copy; 2026. Built with Python, AWS S3 (Moto compatible), Multilingual LLM Tagging, and Chart.js.</p>
+        <p class="footer-compliance">Compliant Data Architecture: YouTube Data API v3, Google Trends API, and Synthetic Simulators for restricted platforms. Zero unauthorized scraping.</p>
+      </div>
+    </footer>
+  </div>
+
+  <!-- Fallback Embedded Data if served without HTTP backend -->
+  <script src="sample_data.js"></script>
+  <!-- Main Dashboard Script -->
+  <script src="app.js"></script>
+</body>
+</html>

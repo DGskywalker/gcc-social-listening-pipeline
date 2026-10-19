@@ -1,0 +1,4 @@
+post_id,platform,text,language,brand,gold_sentiment,gold_theme,is_sarcasm,dialect,annotator_notes
+sample_001,tiktok,"النور للاتصالات التغطية عندكم ممتازة جدا في الرياض",ar,Al-Noor Telecom,positive,Network & Outage,FALSE,Saudi,Clear praise of 5G coverage
+sample_002,instagram,"Falcon Ride charged me double on a rainy Friday evening",en,Falcon Ride,negative,Pricing & Billing,FALSE,English,Complaint regarding surge pricing
+sample_003,tiktok,"هل فرع واحة التجزئة في دبي مول يفتح الساعة 9 صباحا؟",ar,Oasis Retail,neutral,General,FALSE,Emirati,Factual customer query
